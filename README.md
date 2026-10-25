@@ -244,7 +244,16 @@ mcd-family-growth-day/
     └── official-family-activities.md  # 官方亲子活动实测记录
 ```
 
-> 📊 **想直接看效果？读 [`RESULTS.md`](./RESULTS.md)** —— 里面是全部真实运行输出，
+> 📊 **想直接看效果？读 [`RESULTS.md`](./RESULTS.md)**
+---
+
+## 📖 延伸阅读
+
+- [`docs/tech-deep-dive.md`](./docs/tech-deep-dive.md) —— **技术长文**：真实数据如何推翻我的算法假设（儿童餐钠差近一倍）、完整踩坑记录（空仓库传文件 / PAT 权限 / 设备码陷阱 / CSRF）、全部复现命令
+- [`RESULTS.md`](./RESULTS.md) —— 全部真实运行输出
+- [`MCP_INTEGRATION.md`](./MCP_INTEGRATION.md) —— MCP Server、35 个工具、调用流程、业务价值
+- [`workbuddy.md`](./workbuddy.md) —— 完整开发对话上下文（含真实 MCP 调用记录）
+ —— 里面是全部真实运行输出，
 > 每段都可用 `scripts/mcd.py` 现场复现。
 
 ---
