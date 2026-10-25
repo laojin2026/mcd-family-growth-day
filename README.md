@@ -254,6 +254,7 @@ mcd-family-growth-day/
 
 ## 📖 延伸阅读
 
+- [`docs/why-i-was-wrong.md`](./docs/why-i-was-wrong.md) —— **《我推翻了自己算法的那篇长文》**：从「想省钱」到「想让孩子好好吃一顿饭」的完整推理，含儿童餐钠差近一倍的实测对比（可整篇发掘金 / CSDN / 知乎）
 - [`docs/tech-deep-dive.md`](./docs/tech-deep-dive.md) —— **技术长文**：真实数据如何推翻我的算法假设（儿童餐钠差近一倍）、完整踩坑记录（空仓库传文件 / PAT 权限 / 设备码陷阱 / CSRF）、全部复现命令
 - [`RESULTS.md`](./RESULTS.md) —— 全部真实运行输出
 - [`MCP_INTEGRATION.md`](./MCP_INTEGRATION.md) —— MCP Server、35 个工具、调用流程、业务价值
