@@ -234,8 +234,11 @@ mcd-family-growth-day/
 ├── workbuddy.md                 # WorkBuddy 开发对话上下文（含真实 MCP 调用记录）
 ├── SKILL.md                     # Skill 主文件（可被 WorkBuddy 直接加载）
 ├── LICENSE
+├── docs/
+│   └── tech-deep-dive.md        # 技术长文：数据推理、踩坑记录、复现命令
 ├── scripts/
-│   └── mcd.py                   # 零依赖 MCP CLI 客户端 + 本地配比算法
+│   ├── mcd.py                   # 零依赖 MCP CLI 客户端 + 本地配比算法
+│   └── publish_github.py        # 一键建仓与发布脚本
 └── references/
     ├── nutrition-planner.md     # 营养配比算法与阈值
     ├── nutrition-snapshot.json  # 真实抓取的 158 条营养数据快照
@@ -245,6 +248,8 @@ mcd-family-growth-day/
 ```
 
 > 📊 **想直接看效果？读 [`RESULTS.md`](./RESULTS.md)**
+> 📦 **已发布 Release [v1.0.0](https://github.com/laojin2026/mcd-family-growth-day/releases/tag/v1.0.0)**
+
 ---
 
 ## 📖 延伸阅读
@@ -253,7 +258,7 @@ mcd-family-growth-day/
 - [`RESULTS.md`](./RESULTS.md) —— 全部真实运行输出
 - [`MCP_INTEGRATION.md`](./MCP_INTEGRATION.md) —— MCP Server、35 个工具、调用流程、业务价值
 - [`workbuddy.md`](./workbuddy.md) —— 完整开发对话上下文（含真实 MCP 调用记录）
- —— 里面是全部真实运行输出，
+
 > 每段都可用 `scripts/mcd.py` 现场复现。
 
 ---
@@ -287,6 +292,32 @@ MIT License. 详见 [LICENSE](./LICENSE)。
 
 如果这个项目对你有用 —— 哪怕只是**帮你在餐厅少吵了一架**、**让孩子主动说了句谢谢** ——
 **点一下 ⭐ Star**，它能出现在更多家长的屏幕上。
+
+**如果你不想只收藏，而是想一起做点什么**，这三个入口都开放：
+
+| 我想… | 去这里 |
+|---|---|
+| 提一个真实场景（你所在门店的餐品、你孩子的特殊情况） | [Issues #1 案例征集](https://github.com/laojin2026/mcd-family-growth-day/issues/1) —— 我会把每个场景整理进话术库，并署你的 ID |
+| 报一个 bug 或数据错误 | [新建 Issue](https://github.com/laojin2026/mcd-family-growth-day/issues/new) |
+| 把它改成我家的版本（换文案 / 换菜单 / 接你孩子的过敏清单） | Fork 一份，README 里有全部实现说明和复现命令 |
+
+### 怎么跑起来（三步，不用会写代码）
+
+```bash
+git clone https://github.com/laojin2026/mcd-family-growth-day.git
+cd mcd-family-growth-day
+export MCD_MCP_TOKEN=你的麦当劳MCP令牌   # 申请入口见 MCP_INTEGRATION.md
+python scripts/mcd.py plan --age 8       # 直接输出 8 岁孩子的均衡配餐方案
+```
+
+`plan` 子命令自带本地算法，**不消耗 MCP 配额也能跑出完整方案**；
+想拉官方实时菜单和活动，再补上 Token 即可。
+
+---
+
+**关于这个项目为什么写成这样**：所有输出都能被复现，没有一句"效果很好"是编的。
+想知道我怎么从"想省点钱"转向"想让孩子好好吃一顿饭"的，
+看 [`docs/tech-deep-dive.md`](./docs/tech-deep-dive.md) 里的完整推理过程。
 
 Star 是这个项目唯一的推广方式，也是它能继续被更多家庭用到的原因。
 
