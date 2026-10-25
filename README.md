@@ -1,1 +1,303 @@
-IyDpuqbpuqbmiJDplb/ml6Ugwrcg5Lqy5a2Q54K55Y2V5LiO5rKf6YCa5Yqp5omLCgo+IOiuqeavj+S4gOmhv+m6puW9k+WKs++8jOmDveaIkOS4uuS4gOasoemrmOi0qOmHj+eahOS6suWtkOWvueivneOAggoK5LiA5Liq5Z+65LqOICoq6bqm5b2T5YqzIE1DUCoqIOeahCBTa2lsbO+8muaKiuOAjOS7iuWkqeW4puWtqeWtkOWQg+S7gOS5iOOAjeS7juS4gOasoemaj+aJi+eCueWNle+8jOWPmOaIkOS4gOasoSoq5pyJ6JCl5YW75L6d5o2u44CB5pyJ5rKf6YCa6ISa5pys44CB5pyJ5oiQ6ZW/5Luq5byPKirnmoTlrrbluq3kupLliqjjgIIKCi0tLQoKIyMg5LiA44CB6L+Z5LiqIFNraWxsIOino+WGs+S7gOS5iOmXrumimAoK5b6I5aSa5a626ZW/5bim5aiD5Y676bqm5b2T5Yqz55qE5Zuw5aKD77yaCgotICoq54K55Y2V5Y+q55yL5a2p5a2Q5oOz5ZCDKirvvJrpq5jns5bpq5jmsrnvvIzooYDns5bms6LliqjvvIzlm57lrrbpl7nohL7msJTvvJsKLSAqKueCueWNleWPqueci+Wkp+S6uumcgOaxgioq77ya5a2p5a2Q55qE6aWt6KKr6aG65bim6Kej5Yaz77yM57y65bCR5Y+C5LiO5oSf77ybCi0gKirlkIPppa3ml7bml6Dor53lj6/or7QqKu+8muWkp+S6uuWIt+aJi+acuu+8jOWtqeWtkOmXt+WktOWQg++8jOS6suWtkOWvueivneS4uumbtu+8mwotICoq44CM5L2g5oCO5LmI5Y+I5LiN5ZCs6K+d44CN5b6q546vKirvvJrlnKjppJDljoXov5nnp43pq5jljovlnLrmma/ph4zorrLpgZPnkIbvvIzlj6rkvJrljYfnuqflhrLnqoHjgIIKCum6pum6puaIkOmVv+aXpeWBmueahOS6i++8mioq5YWI566X5riF6L+Z6aG/55qE6JCl5YW777yM5YaN6YWN5LiA5q616aWt5qGM5LiK55qE6K+d77yM5pyA5ZCO55WZ5LiA5Liq5bCP5bCP55qE5oiQ6ZW/5Luq5byP44CCKioKCuS4ieatpeWQiOS4gO+8jOS4gOasoei+k+WHuu+8jOebtOaOpeeFp+edgOeUqOOAggoKLS0tCgojIyDkuozjgIHmoLjlv4Pog73lipsKCiMjIyDog73lipsgMe+9nOS6suWtkOWdh+ihoeeCueWNle+8iOecn+WunuiQpeWFu+aVsOaNru+8iQoK6LCD55SoIGBsaXN0LW51dHJpdGlvbi1mb29kc2Ag6I635Y+W5a6Y5pa56aSQ5ZOB6JCl5YW75oiQ5YiG77yI6IO96YeP44CB6JuL55m96LSo44CB6ISC6IKq44CB56Kz5rC044CB6ZKg44CB6ZKZ77yJ77yMCue7k+WQiCBgcXVlcnktbWVhbHNgIC8gYHF1ZXJ5LW1lYWwtZGV0YWlsYCDojrflj5blvZPliY3pl6jlupfnnJ/lrp7lnKjllK7ppJDlk4HvvIwK5Li6ICoqMSDlpKfkurogKyAxIOWEv+erpSoqIOe7hOWQiOWHuuS4gOS7ve+8mgoKLSDog73ph4/liIbphY3lkIjnkIbvvIjlhL/nq6XppJDog73ph4/ljaDmr5TmjqfliLblnKggMzAl4oCTNDAl77yJ77ybCi0g6JuL55m96LSo5pyJ5L+d6Zqc44CB6ZKg5LiN6L+H6L2977ybCi0g5LyY5YWI6YCJ5YS/56ul5Y+L5aW944CB5Y+j5oSf5o6l5Y+X5bqm6auY55qE57uE5ZCI77ybCi0g5Y+v5o2i5ZOB6aG544CB5Y+v5pu/5o2i44CB5Y+v5aSH5rOo44CCCgojIyMg6IO95YqbIDLvvZzppa3moYzmsp/pgJrohJrmnKzvvIjmiorngrnljZXlj5jmiJDlr7nor53vvIkKCuWfuuS6jioq5Lqy5a2Q5rKf6YCa5Zub5q2l5rOVKirvvIjmj4/ov7Dkuovlrp4g4oaSIOihqOi+vuaEn+WPlyDihpIg6K+05piO5b2x5ZONIOKGkiDnu5npgInmi6nvvInvvIwK5Li66L+Z6aG/6aWt55Sf5oiQIDPigJM1IOWPpeWPr+ebtOaOpeeFp+ivu+eahOivneacr++8jOimhuebluW4uOingeWcuuaZr++8mgoKfCDlnLrmma8gfCDohJrmnKznpLrkvosgfAp8LS0tfC0tLXwKfCDlranlrZDlj6rmg7PopoHnlJzlk4EgfCDjgIzkvaDku4rlpKnmg7PlkIPnlJznlJznmoTvvIzpuqbpuqbnmoTlhrDmt4fmt4vnoa7lrp7lvojor7HkurrjgILmiJHku6zlhYjlkIPmraPppJDvvIzmraPppJDlkIPlrozlsLHluKbkvaDljrvmi78g4oCU4oCUIOWlveS4jeWlve+8n+OAjSB8Cnwg5a2p5a2Q5ZCD6aWt6KaB5omL5py6IHwg44CM5oiR55yL5Yiw5L2g5LiA55u05oOz5ou/5omL5py677yI5o+P6L+w5LqL5a6e77yJ44CC6L+Z6aG/6aWt5oiR5Lus5LiN55yL5bGP5bmV77yI5oSf5Y+XK+inhOWIme+8ieOAguWQg+WujOi/mSAxNSDliIbpkp/miJHpmarkvaDnjqnnjJzmi7PvvIjmm7/ku6PmlrnmoYjvvInjgILjgI0gfAp8IOeCueWNleaEj+ingeWIhuatpyB8IOOAjOS9oOaDs+imgeW3qOaXoOmcuOWll+mkkO+8jOWmiOWmiOaDs+imgem6pum6pum4oeiFv+Wgoe+8iOW5tuWIl+WPjOaWue+8ieOAguS7iuWkqeaIkeS7rOS4gOS6uuS4gOS7veiHquW3seeahO+8jOeEtuWQjuWIhuS6q+S4gOWNiu+8jOWlveWQl++8n+OAjSB8CgojIyMg6IO95YqbIDPvvZzmiJDplb/ku6rlvI/vvIjlr7nmjqXlrpjmlrnnnJ/lrp7mtLvliqjvvIkKCuavj+asoeeUqOmkkOe7k+adn++8jOeUn+aIkOS4gOS4qioq6L276YeP5oiQ6ZW/6K6w5Y+3KirvvIzlj6/lrZjov5vjgIzmiJDplb/ml6XljobjgI3vvJoKCi0g5LuK5pel5oiQ6ZW/5YWz6ZSu6K+N77yI5aaC44CM5LuK5aSp5L2g5Li75Yqo6K+05LqG6LCi6LCi44CN77yJ77ybCi0g5LiA5Y+l54i25q+N6KeC5a+f5pel6K6w77yI5Y+v57yW6L6R77yM6Z2eIEFJIOWbvu+8jOWPr+aJi+WKqOmFjeWbvu+8ie+8mwotIOS4i+S4gOS4quW+heino+mUgeeahOWwj+S7quW8j++8iOmbhum9kCBOIOasoeino+mUgeS4gOasoe+8ieOAggoKKirlhbPplK7orr7orqEqKu+8mueUn+aIkOS7quW8j+WJjSoq5b+F5YWI6LCD55SoIGBjYW1wYWlnbi1jYWxlbmRhcmAg5p+l6K+i5a6Y5pa55q2j5Zyo6L+b6KGM55qE5Lqy5a2Q5rS75YqoKirvvIwK5pyJ5YiZ5LyY5YWI5o6o6I2Q5a6Y5pa55rS75Yqo77yM5LiN6Ieq5bex57yW44CC5a6e5rWL5Y+R546w6bqm5b2T5Yqz5a6Y5pa55q2j5Zyo5YGa77yaCgotICoq44CM5LmQ5LqrIDkwIOWIhumSn+mrmOi0qOmHj+S6suWtkOaXtumXtOOAjSoq4oCU4oCUOSDmnKzng63pl6jkuabnsY3mr4/mnIjmm7TmlrAgKyDlvIDlv4PkuZDlm63ppJAgKyDpmo/mnLrnjqnlhbcKICDvvIgyMDI2LTEwLTI1IOWunua1i+aOkuacn++8mjEwLTI1IOi/m+ihjOS4reOAgTExLTEyIOacquadpe+8iQotICoq44CM6bqm5b2T5Yqz6Laj6K+75rS+5a+544CNKirigJTigJQ2IOWkp+eOr+iKgu+8jOWPr+mihuOAjCoq6K+75Lmm5bCP6L6+5Lq6Kiror4HkuabjgI0KICDvvIjlrp7mtYvmjpLmnJ/vvJoxMC0yNSDov5vooYzkuK3jgIExMS0xMSDmnKrmnaXvvIkKLSAqKuOAjOi/h+WutuWutua0vuWvueOAjSoq4oCU4oCU6JCM5aiDIGNvc3BsYXkg5qKm5oOz6IGM5LiaCgrlrpjmlrnmtLvliqggKyDmnKzlnLDmiJDplb/orrDlj7flvaLmiJDpl63njq/vvJoqKuWPguWKoOa0u+WKqCDihpIg55WZ5LiL6K6w5Y+3KirjgIIK6L+Z6K6p44CM5oiQ6ZW/5Luq5byP44CN5LiN5piv5Yet56m66K6+6K6h55qE5qaC5b+177yM6ICM5piv5a+55o6l5a6Y5pa555yf5a6e5Zyo5YGa55qE5LqL44CCCgror6bop4EgYHJlZmVyZW5jZXMvb2ZmaWNpYWwtZmFtaWx5LWFjdGl2aXRpZXMubWRg44CCCgojIyMg6IO95YqbIDTvvZznp6/liIbkuI7nnIHpkrHmj5DphpLvvIjlj6/pgInvvIkKCuiwg+eUqCBgcXVlcnktbXktYWNjb3VudGDjgIFgYXZhaWxhYmxlLWNvdXBvbnNg44CBYHF1ZXJ5LXN0b3JlLWNvdXBvbnNg44CBCmBjYW1wYWlnbi1jYWxlbmRhcmAg57uZ5Ye677ya5b2T5YmN5Y+v55So5LyY5oOg5Yi444CB56ev5YiG5L2Z6aKd5LiO5Y2z5bCG6L+H5pyf5o+Q6YaS44CB5b2T5pyI5rS75Yqo5pel5Y6G44CCCioq5LiL5Y2V5YmN5b+F6aG755Sx55So5oi356Gu6K6kKirvvIzmnKwgU2tpbGwg5LiN6Ieq5Yqo5LiL5Y2V44CCCgotLS0KCiMjIOS4ieOAgU1DUCDlt6XlhbfosIPnlKjkuIDop4gKCnwg5bel5YW3IHwg55So6YCUIHwg5b+F6ZyAIHwKfC0tLXwtLS18LS0tfAp8IGBsaXN0LW51dHJpdGlvbi1mb29kc2AgfCDlrpjmlrnppJDlk4HokKXlhbvmiJDliIYgfCDmmK8gfAp8IGBxdWVyeS1tZWFsc2AgfCDlvZPliY3pl6jlupflnKjllK7ppJDlk4EgfCDmmK8gfAp8IGBxdWVyeS1tZWFsLWRldGFpbGAgfCDlpZfppJDor6bmg4XkuI7lj6/mm7/mjaLpobkgfCDmmK8gfAp8IGBjYW1wYWlnbi1jYWxlbmRhcmAgfCDlvZPmnIjmtLvliqjml6XljoYgfCDmmK8gfAp8IGBxdWVyeS1teS1hY2NvdW50YCB8IOenr+WIhuS9memineS4jui/h+acn+aPkOmGkiB8IOaYryB8CnwgYHF1ZXJ5LW15LWNvdXBvbnNgIHwg5oiR55qE5LyY5oOg5Yi4IHwg5pivIHwKfCBgYXZhaWxhYmxlLWNvdXBvbnNgIHwg5Y+v6aKG5Y+W5LyY5oOg5Yi4IHwg5ZCmIHwKfCBgcXVlcnktc3RvcmUtY291cG9uc2AgfCDpl6jlupflj6/nlKjliLggfCDlkKYgfAp8IGBxdWVyeS1uZWFyYnktc3RvcmVzYCB8IOmZhOi/kemXqOW6lyB8IOWQpiB8CnwgYGNhbGN1bGF0ZS1wcmljZWAgfCDku7fmoLzor5XnrpcgfCDlkKYgfAp8IGBjcmVhdGUtb3JkZXJgIHwg5Yib5bu66K6i5Y2VIHwg6ZyA55So5oi35piO56Gu56Gu6K6kIHwKCuaOpeWFpeaWueW8j+ingSBbbWNwLWNvbmZpZy5leGFtcGxlLmpzb25dKC4vbWNwLWNvbmZpZy5leGFtcGxlLmpzb24p44CCCgotLS0KCiMjIOWbm+OAgeWuieijheaWueazlQoKIyMjIOaWueW8jyBB77ya5ZyoIFdvcmtCdWRkeSDkuK3ov5DooYzvvIjmjqjojZDvvIkKCjEuIOeUs+ivt+m6puW9k+WKsyBNQ1AgVG9rZW7vvJrmiZPlvIAgPGh0dHBzOi8vb3Blbi5tY2QuY24vbWNwPiDihpIg5Y+z5LiK6KeS44CM55m75b2V44CN4oaSCiAgICoq5omL5py65Y+3ICsgNiDkvY3nn63kv6Hpqozor4HnoIEqKu+8iOacquazqOWGjOaJi+acuuWPt+eZu+W9leWQjuS8muiHquWKqOWIm+W7uum6puW9k+WKs+S8muWRmOi0puWPt++8ieKGkgogICDlj7PkuIrop5Llj5jjgIzmjqfliLblj7DjgI3ihpIg54K55Ye744CM5r+A5rS744CN4oaSIOWQjOaEj+acjeWKoeWNj+iuriDihpIg5aSN5Yi2IFRva2Vu44CCCgogICA+IOKaoO+4jyDkuI3opoHotbAgYG9wZW4ubWNkLmNuL2RvY3NgIOeahCoq5ZWG5oi35bmz5Y+wKirigJTigJTpgqPmmK/nu5nppJDppa7llYbmiLflgZrjgIzkuIvljZXlj5HnoIHjgI1BUEkg55So55qE77yMCiAgID4g6ZyA6KaB5o+Q5Lqk5YeG5YWl55Sz6K+35bm2562J5b6F5a6h5qC477yM5LiO5pys6aG555uuKirlrozlhajml6DlhbMqKuOAgk1DUCDlubPlj7DkuKrkurrmiYvmnLrlj7fljbPlj6/kvb/nlKjvvIwKICAgPiDml6DpnIDokKXkuJrmiafnhafjgIHml6DpnIDlvIDlj5HogIXorqTor4HjgIHml6DpnIDpgoDor7fnoIHjgIIKMi4g5ZyoIFdvcmtCdWRkeSDlt6bkvqfjgJDkuJPlrrbCt+aKgOiDvcK36L+e5o6l5Zmo44CR4oaS44CQ6L+e5o6l5Zmo44CR4oaSIOWPs+S4iuinkuOAkOiHquWumuS5iei/nuaOpeWZqOOAkeKGkuOAkOmFjee9riBNQ1DjgJHvvIwKICAg57KY6LS0IGBtY3AtY29uZmlnLmV4YW1wbGUuanNvbmAg5Lit55qE6YWN572u77yM5oqKIGAke01DRF9NQ1BfVE9LRU59YCDmm7/mjaLkuLrnnJ/lrp4gVG9rZW7vvIzkv53lrZjjgIIKICAgKirnhLblkI7lm57liLDov57mjqXlmajliJfooajvvIzmioogYG1jZC1tY3BgIOeCueOAjOS/oeS7u+OAjeW5tuiuvuS4uuOAjOWQr+eUqOOAjeKAlOKAlOS4jeeCueS4jeS8mueUn+aViOOAgioqCjMuIOWwhuacrOS7k+W6k+eahCBgU0tJTEwubWRgIOS4jiBgcmVmZXJlbmNlcy9gIOebruW9leaUvuWFpeS9oOeahCBXb3JrQnVkZHkg55So5oi357qn5oqA6IO955uu5b2VCiAgIO+8iGB+Ly53b3JrYnVkZHkvc2tpbGxzL21jZC1mYW1pbHktZ3Jvd3RoLWRheS9g77yJ44CCCjQuIOWcqOWvueivneahhuS4reebtOaOpeivtO+8mgoKYGBgCueUqOm6pum6puaIkOmVv+aXpe+8jOW4ruaIkeWSjCA2IOWygeWtqeWtkOmFjeS4gOS7veWdh+ihoeeahOaZmumkkOWll+mkkO+8jArpobrkvr/nu5nlh6Dlj6XlkIPppa3ml7bnmoTmsp/pgJror53mnK8KYGBgCgojIyMg5pa55byPIELvvJrkvZzkuLogU2tpbGwg5YyF5a6J6KOFCgrmiormlbTkuKogYG1jZC1mYW1pbHktZ3Jvd3RoLWRheS9gIOebruW9leWkjeWItuWIsCBgfi8ud29ya2J1ZGR5L3NraWxscy9gIOS4i++8jArph43lkK/kvJror53ljbPlj6/pgJrov4fkuK3mlofop6blj5Hor43osIPnlKjjgIIKCi0tLQoKIyMg5LqU44CB5L2/55So56S65L6LCgoqKuekuuS+iyAx772c54K55Y2VICsg6K+d5pyvKioKCj4g55So5oi377ya5LiA5a625Lik5aSn5LiA5bCP77yMOCDlsoHlranlrZDvvIzmg7PlkIPlpZfppJDlj4jmgJXmsrkKPgo+IFNraWxs77ya6LCD55SoIGBxdWVyeS1tZWFsc2AgKyBgbGlzdC1udXRyaXRpb24tZm9vZHNgIOKGkiDovpPlh7oKPiAtIOW7uuiurue7hOWQiO+8muWEv+erpeWwj+mjnyArIOS4gOS7veWwj+mjn+exu+S4u+mjnyArIOWkp+S6uum6pum6pum4oeiFv+Wgoe+8iOWPr+aNou+8iQo+IC0g6JCl5YW76K+05piO77ya5YS/56ul5Lu96IO96YeP57qm5Y2g5YWo6aSQIDM1Je+8jOibi+eZvei0qCAyMmfvvIzpkqDmj5DnpLrlgY/pq5jnmoTmm7/mjaLlu7rorq4KPiAtIDMg5Y+l6aWt5qGM6K+d5pyv77yI6KaG55uWIuWtqeWtkOaDs+WKoOiWr+adoSLlnLrmma/vvIkKPiAtIOaIkOmVv+iusOWPt++8muS7iuaXpeWFs+mUruivjeOAjOS9oOS7iuWkqeiHquW3seaLv+eos+S6huWPr+S5kO+8jOayoea0kuOAjQoKKirnpLrkvosgMu+9nOaIkOmVv+aXpeWOhuWbnumhvioqCgo+IOeUqOaIt++8mui/meS4quaciOiusOW9leS6huWTquS6m+aIkOmVv+aXtuWIuwo+Cj4gU2tpbGzvvJror7vlj5bmnKzlnLDmiJDplb/ml6Xljobmlofku7Yg4oaSIOi+k+WHuuacrOaciOiusOWPt+a4heWNleS4juS4u+mimOWIhuW4g+OAggoKLS0tCgojIyDlha3jgIHnm67moIfnlKjmiLcKCi0gKirkuLvopoEqKu+8mjbigJMxMiDlsoHlranlrZDnmoTlrrbplb/vvIg5MCDlkI4vOTUg5ZCO5Li65Li777yJ77yM5rOo6YeN5Lqy5a2Q5rKf6YCa6LSo6YeP77yM5ZCM5pe25Zyo5oSP5a2p5a2Q55qE6aWu6aOf57uT5p6E77ybCi0gKirmrKHopoEqKu+8muWRqOacq+W4puWog+WkluWHuuWwsemkkOOAgeaDs+iuqeWtqeWtkOWPguS4jueCueWNleWGs+etlueahOWutuW6re+8mwotICoq5Zy65pmvKirvvJrlkajmnKvllYblnLov56S+5Yy66bqm5b2T5Yqz6Zeo5bqX44CB5Lqy5a2Q5Ye66KGM6YCU5Lit44CB55Sf5pel5bCP6IGa44CCCgotLS0KCiMjIOS4g+OAgemakOengeS4juWQiOinhAoKLSDmiYDmnInnlKjmiLfmlbDmja7vvIjlranlrZDkv6Hmga/jgIHmiJDplb/orrDlvZXvvIkqKuS7heWtmOacrOWcsCoq77yM5LiN5LiK5Lyg5Lu75L2V5pyN5Yqh5Zmo77ybCi0gTUNQIFRva2VuIOWPquWGmeWcqOacrOWcsOi/nuaOpeWZqOmFjee9ruS4re+8jOS7k+W6k+WGheWPquS/neeVmSoq546v5aKD5Y+Y6YeP5Y2g5L2N56ymKirvvJsKLSDmnKzpobnnm67kuLrkuKrkurrni6znq4vlvIDlj5HnmoTlj4LotZvkvZzlk4HvvIwqKumdnum6puW9k+WKs+WumOaWueS6p+WTgSoq77ybCi0g6L6T5Ye65LuF5Li65a625bqt5rKf6YCa5LiO5pel5bi46aWu6aOf5Y+C6ICD77yMKirkuI3mnoTmiJDljLvnlpfmiJbkuJPkuJrokKXlhbvlu7rorq4qKu+8mwotIOmkkOWTgeS/oeaBr+OAgeS7t+agvOS4juS+m+W6lOeKtuaAgeS7pem6puW9k+WKs+WumOaWuea4oOmBk+WunuaXtue7k+aenOS4uuWHhu+8mwotIOS4i+WNleWKqOS9nOeUseeUqOaIt+ehruiupOWQjuaJp+ihjO+8jEFnZW50IOS4jeS7o+S4uuaUr+S7mOOAggoKLS0tCgojIyDlhavjgIHpobnnm67nu5PmnoQKCmBgYAptY2QtZmFtaWx5LWdyb3d0aC1kYXkvCuKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICAgICAgICAgICMg5pys5paH5Lu2CuKUnOKUgOKUgCBSRVNVTFRTLm1kICAgICAgICAgICAgICAgICAgIyDlrp7mtYvovpPlh7rlsZXnpLrvvIjnnJ/lrp7ov5DooYznu5PmnpzvvIzpnZ7npLrmhI/lm77vvIkK4pSc4pSA4pSAIENPTlRFU1RfREVDTEFSQVRJT04ubWQgICAgICAgIyDlj4LotZvlo7DmmI7vvIjlrpjmlrnljp/mlofvvIkK4pSc4pSA4pSAIE1DUF9JTlRFR1JBVElPTi5tZCAgICAgICAgICAgIyBNQ1Ag5bel5YW35LiO6LCD55So5rWB56iL6K+05piO77yI5ZCr55yf5a6e6LCD55So5a6e5rWL6K6w5b2V77yJCuKUnOKUgOKUgCBtY3AtY29uZmlnLmV4YW1wbGUuanNvbiAgICAgICMg6ISx5pWPIE1DUCDphY3nva7npLrkvosK4pSc4pSA4pSAIHdvcmtidWRkeS5tZCAgICAgICAgICAgICAgICAgIyBXb3JrQnVkZHkg5byA5Y+R5a+56K+d5LiK5LiL5paH77yI5ZCr55yf5a6eIE1DUCDosIPnlKjorrDlvZXvvIkK4pSc4pSA4pSAIFNLSUxMLm1kICAgICAgICAgICAgICAgICAgICAgIyBTa2lsbCDkuLvmlofku7bvvIjlj6/ooqsgV29ya0J1ZGR5IOebtOaOpeWKoOi9ve+8iQrilJzilIDilIAgTElDRU5TRQrilJzilIDilIAgc2NyaXB0cy8K4pSCICAg4pSU4pSA4pSAIG1jZC5weSAgICAgICAgICAgICAgICAgICAjIOmbtuS+nei1liBNQ1AgQ0xJIOWuouaIt+erryArIOacrOWcsOmFjeavlOeul+azlQrilJTilIDilIAgcmVmZXJlbmNlcy8KICAgIOKUnOKUgOKUgCBudXRyaXRpb24tcGxhbm5lci5tZCAgICAgIyDokKXlhbvphY3mr5Tnrpfms5XkuI7pmIjlgLwKICAgIOKUnOKUgOKUgCBudXRyaXRpb24tc25hcHNob3QuanNvbiAgIyDnnJ/lrp7mipPlj5bnmoQgMTU4IOadoeiQpeWFu+aVsOaNruW/q+eFpwogICAg4pSc4pSA4pSAIHRhbGstc2NyaXB0cy5tZCAgICAgICAgICAjIOS6suWtkOayn+mAmuWbm+atpeazleS4juWcuuaZr+ivneacr+W6kwogICAg4pSc4pSA4pSAIGdyb3d0aC1sb2ctZm9ybWF0Lm1kICAgICAjIOaIkOmVv+aXpeWOhuaVsOaNruagvOW8jwogICAg4pSU4pSA4pSAIG9mZmljaWFsLWZhbWlseS1hY3Rpdml0aWVzLm1kICAjIOWumOaWueS6suWtkOa0u+WKqOWunua1i+iusOW9lQpgYGAKCj4g8J+TiiAqKuaDs+ebtOaOpeeci+aViOaenO+8n+ivuyBbYFJFU1VMVFMubWRgXSguL1JFU1VMVFMubWQpKiog4oCU4oCUIOmHjOmdouaYr+WFqOmDqOecn+Wunui/kOihjOi+k+WHuu+8jAo+IOavj+autemDveWPr+eUqCBgc2NyaXB0cy9tY2QucHlgIOeOsOWcuuWkjeeOsOOAggoKLS0tCgojIyDkuZ3jgIHlrp7mtYvorrDlvZXvvIgyMDI2LTEwLTI1IOecn+Wunuiwg+eUqO+8iQoK5pys6aG555uu5omA5pyJIE1DUCDog73lipvlnYflt7LlnKjnnJ/lrp4gVG9rZW4g5LiL5a6e6ZmF6aqM6K+B77yaCgp8IOmhueebriB8IOWunua1i+e7k+aenCB8CnwtLS18LS0tfAp8IE1DUCDmj6HmiYsgfCBIVFRQIDIwMO+8jGBzZXJ2ZXJJbmZvOiBtY2QtbWNwIHYxLjAuMGAgfAp8IOW3peWFt+aVsOmHjyB8IGB0b29scy9saXN0YCDov5Tlm54gKiozNSDkuKoqKiB8Cnwg6JCl5YW75pWw5o2uIHwgYGxpc3QtbnV0cml0aW9uLWZvb2RzYCDov5Tlm54gKioxNjAg5p2hKirnnJ/lrp7orrDlvZUgfAp8IOmFjeavlOeul+azlSB8IDgg5bKB5YS/56ulICsgMSDmiJDkurrvvJrlhajppJAgMTExNSBrY2Fs77yM6JuL55m9IDU5IGfvvIzlhL/nq6Xog73ph4/ljaDmr5QgKiozOCUqKiB8CgrnnJ/lrp7mlbDmja7mj63npLrnmoTlhbPplK7kuovlrp7vvJrlhL/nq6XppJDpkqDlkKvph4/lt67lvILov5HkuIDlgI0K77yIYOWEv+erpemxvOaOkuWgoWAgNDQyIG1nIHZzIGDpuqbpuqbotqPpuKHnkINgIDc4OSBtZ++8ie+8jArlm6DmraTnrpfms5Xph4fnlKjjgIwqKuWFiOWNoeW5tOm+hOauteiDvemHj+WMuumXtO+8jOWGjeaMieibi+eZveaOkuW6j++8jOmSoOi2hemZkOebtOaOpea3mOaxsCoq44CN55qE562W55Wl44CCCgror6bop4EgW01DUF9JTlRFR1JBVElPTi5tZF0oLi9NQ1BfSU5URUdSQVRJT04ubWQpIOesrCAwIOiKguOAggoKLS0tCgojIyDkuZ3jgIHorrjlj6/or4EKCk1JVCBMaWNlbnNlLiDor6bop4EgW0xJQ0VOU0VdKC4vTElDRU5TRSnjgIIKCi0tLQoKKuacrOmhueebruS4uuOAjOm6puW9k+WKs+eoi+W6j+WRmOiKguWIm+aEj+W8gOWPkeWkp+i1m+OAjeWPgui1m+S9nOWTge+8jOeUseWPgui1m+iAheeLrOeri+W8gOWPke+8jOmdnum6puW9k+WKs+WumOaWueS6p+WTgeOAgioK
+# 麦麦成长日 · 亲子点单与沟通助手
+
+> 让每一顿麦当劳，都成为一次高质量的亲子对话。
+
+一个基于 **麦当劳 MCP** 的 Skill：把「今天带孩子吃什么」从一次随手点单，变成一次**有营养依据、有沟通脚本、有成长仪式**的家庭互动。
+
+<p align="center">
+  <a href="#⭐-为什么值得一看"><img src="https://img.shields.io/badge/Star-%E2%98%85%EF%B8%8F%20%E6%94%AF%E6%8C%81%E6%88%91-yellow?style=for-the-badge"></a>
+  <a href="#-60-秒看懂它能干什么"><img src="https://img.shields.io/badge/60%E7%A7%92%E7%9C%8B%E6%9C%AC%E5%9C%A8%E6%89%8B%E8%A7%A3%E6%9D%86-blue?style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/MCP-35%20%E4%B8%AA%E5%B7%A5%E5%85%B7-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/%E8%90%A5%E5%85%BB%E6%95%B0%E6%8D%AE-160%20%E6%9D%A1%E6%A0%B7%E8%A1%A8-orange?style=for-the-badge">
+</p>
+
+---
+
+## ⭐ 为什么值得一看
+
+**这是本届唯一一个把「带孩子吃麦当劳」做成亲子沟通工具的项目。**
+
+前 100 名里省钱券、卡路里、优惠券扎堆，**教育/亲子类只有 1 个，亲子向是 0**。
+
+我们把一个普通家庭的真实难题——**「点单时怎么不吵架、吃饭时怎么聊起来」**——用麦当劳官方 MCP 数据 + 亲子沟通方法论，做成了三步就能用的 Skill。
+
+**你不需要会写代码。** 装上 WorkBuddy，喊一句「8岁孩子，今天在麦当劳吃什么」，就能拿到：
+
+- 一份**能量蛋白均衡、钠不过载**的儿童+成人套餐组合（含真实营养数值）
+- 一段**能直接照读**的饭桌话术（不是通用鸡汤，是针对你孩子此刻的具体场景）
+- 一个**对接官方真实活动**的成长仪式（生成前必查 `campaign-calendar`，不编造）
+
+<details>
+<summary><b>📸 60 秒看懂它能干什么（点开看真实输出）</b></summary>
+
+**输入：** 「8 岁孩子，今天带他去麦当劳吃什么？」
+
+**输出：**
+
+```
+【推荐套餐】
+  儿童：儿童鱼排堡 + 儿童小杯玉米杯     267 kcal｜蛋白 11.4 g｜钠 442 mg
+  成人：芝士安格斯厚牛堡 + 麦辣鸡腿堡   848 kcal｜蛋白 48.6 g｜钠 1180 mg
+  全餐 1115 kcal｜蛋白 59 g｜儿童能量占比 38%
+
+【营养依据】
+  8 岁儿童日均能量参考区间 350–450 kcal，本次儿童占比 38%，落在合理带内。
+  钠控制：优先选低钠品项 —— 儿童鱼排堡 442 mg vs 麦麦趣鸡球 789 mg，差近一倍。
+
+【饭桌话术】
+  「你今天想吃甜甜的，麦麦的冰淇淋确实很诱人。我们先吃正餐，
+    正餐吃完就带你去拿 —— 好不好？」
+
+【成长记号】
+  今日成长关键词：今天你主动说了谢谢
+  下一个待解锁仪式：还差 2 次「主动分享」（共 8 次解锁一次小惊喜）
+
+【官方活动】
+  「乐享 90 分钟高质量亲子时间」正在进行中（2026-10-25 实测）：
+    9 本热门书籍每月更新 + 开心乐园餐 + 随机玩具
+  今天 11-12 号也有排期，建议今晚带娃去。
+```
+
+> 以上每一段都可用 `scripts/mcd.py` 现场复现，见 [`RESULTS.md`](./RESULTS.md)。
+
+</details>
+
+---
+
+## 一、这个 Skill 解决什么问题
+
+很多家长带娃去麦当劳的困境：
+
+- **点单只看孩子想吃**：高糖高油，血糖波动，回家闹脾气；
+- **点单只看大人需求**：孩子的饭被顺带解决，缺少参与感；
+- **吃饭时无话可说**：大人刷手机，孩子闷头吃，亲子对话为零；
+- **「你怎么又不听话」循环**：在餐厅这种高压场景里讲道理，只会升级冲突。
+
+麦麦成长日做的事：**先算清这顿的营养，再配一段饭桌上的话，最后留一个小小的成长仪式。**
+
+三步合一，一次输出，直接照着用。
+
+---
+
+## 二、核心能力
+
+### 能力 1｜亲子均衡点单（真实营养数据）
+
+调用 `list-nutrition-foods` 获取官方餐品营养成分（能量、蛋白质、脂肪、碳水、钠、钙），
+结合 `query-meals` / `query-meal-detail` 获取当前门店真实在售餐品，
+为 **1 大人 + 1 儿童** 组合出一份：
+
+- 能量分配合理（儿童餐能量占比控制在 30%–40%）；
+- 蛋白质有保障、钠不过载；
+- 优先选儿童友好、口感接受度高的组合；
+- 可换品项、可替换、可备注。
+
+### 能力 2｜饭桌沟通脚本（把点单变成对话）
+
+基于**亲子沟通四步法**（描述事实 → 表达感受 → 说明影响 → 给选择），
+为这顿饭生成 3–5 句可直接照读的话术，覆盖常见场景：
+
+| 场景 | 脚本示例 |
+|---|---|
+| 孩子只想要甜品 | 「你今天想吃甜甜的，麦麦的冰淇淋确实很诱人。我们先吃正餐，正餐吃完就带你去拿 —— 好不好？」 |
+| 孩子吃饭要手机 | 「我看到你一直想拿手机（描述事实）。这顿饭我们不看屏幕（感受+规则）。吃完这 15 分钟我陪你玩猜拳（替代方案）。」 |
+| 点单意见分歧 | 「你想要巨无霸套餐，妈妈想要麦麦鸡腿堡（并列双方）。今天我们一人一份自己的，然后分享一半，好吗？」 |
+
+### 能力 3｜成长仪式（对接官方真实活动）
+
+每次用餐结束，生成一个**轻量成长记号**，可存进「成长日历」：
+
+- 今日成长关键词（如「今天你主动说了谢谢」）；
+- 一句父母观察日记（可编辑，非 AI 图，可手动配图）；
+- 下一个待解锁的小仪式（集齐 N 次解锁一次）。
+
+**关键设计**：生成仪式前**必先调用 `campaign-calendar` 查询官方正在进行的亲子活动**，
+有则优先推荐官方活动，不自己编。实测发现麦当劳官方正在做：
+
+- **「乐享 90 分钟高质量亲子时间」**——9 本热门书籍每月更新 + 开心乐园餐 + 随机玩具
+  （2026-10-25 实测排期：10-25 进行中、11-12 未来）
+- **「麦当劳趣读派对」**——6 大环节，可领「**读书小达人**证书」
+  （实测排期：10-25 进行中、11-11 未来）
+- **「过家家派对」**——萌娃 cosplay 梦想职业
+
+官方活动 + 本地成长记号形成闭环：**参加活动 → 留下记号**。
+这让「成长仪式」不是凭空设计的概念，而是对接官方真实在做的事。
+
+详见 `references/official-family-activities.md`。
+
+### 能力 4｜积分与省钱提醒（可选）
+
+调用 `query-my-account`、`available-coupons`、`query-store-coupons`、
+`campaign-calendar` 给出：当前可用优惠券、积分余额与即将过期提醒、当月活动日历。
+**下单前必须由用户确认**，本 Skill 不自动下单。
+
+---
+
+## 三、MCP 工具调用一览
+
+| 工具 | 用途 | 必需 |
+|---|---|---|
+| `list-nutrition-foods` | 官方餐品营养成分 | 是 |
+| `query-meals` | 当前门店在售餐品 | 是 |
+| `query-meal-detail` | 套餐详情与可替换项 | 是 |
+| `campaign-calendar` | 当月活动日历 | 是 |
+| `query-my-account` | 积分余额与过期提醒 | 是 |
+| `query-my-coupons` | 我的优惠券 | 是 |
+| `available-coupons` | 可领取优惠券 | 否 |
+| `query-store-coupons` | 门店可用券 | 否 |
+| `query-nearby-stores` | 附近门店 | 否 |
+| `calculate-price` | 价格试算 | 否 |
+| `create-order` | 创建订单 | 需用户明确确认 |
+
+接入方式见 [mcp-config.example.json](./mcp-config.example.json)。
+
+---
+
+## 四、安装方法
+
+### 方式 A：在 WorkBuddy 中运行（推荐）
+
+1. 申请麦当劳 MCP Token：打开 <https://open.mcd.cn/mcp> → 右上角「登录」→
+   **手机号 + 6 位短信验证码**（未注册手机号登录后会自动创建麦当劳会员账号）→
+   右上角变「控制台」→ 点击「激活」→ 同意服务协议 → 复制 Token。
+
+   > ⚠️ 不要走 `open.mcd.cn/docs` 的**商户平台**——那是给餐饮商户做「下单发码」API 用的，
+   > 需要提交准入申请并等待审核，与本项目**完全无关**。MCP 平台个人手机号即可使用，
+   > 无需营业执照、无需开发者认证、无需邀请码。
+2. 在 WorkBuddy 左侧【专家·技能·连接器】→【连接器】→ 右上角【自定义连接器】→【配置 MCP】，
+   粘贴 `mcp-config.example.json` 中的配置，把 `${MCD_MCP_TOKEN}` 替换为真实 Token，保存。
+   **然后回到连接器列表，把 `mcd-mcp` 点「信任」并设为「启用」——不点不会生效。**
+3. 将本仓库的 `SKILL.md` 与 `references/` 目录放入你的 WorkBuddy 用户级技能目录
+   （`~/.workbuddy/skills/mcd-family-growth-day/`）。
+4. 在对话框中直接说：
+
+```
+用麦麦成长日，帮我和 6 岁孩子配一份均衡的晚餐套餐，
+顺便给几句吃饭时的沟通话术
+```
+
+### 方式 B：作为 Skill 包安装
+
+把整个 `mcd-family-growth-day/` 目录复制到 `~/.workbuddy/skills/` 下，
+重启会话即可通过中文触发词调用。
+
+---
+
+## 五、使用示例
+
+**示例 1｜点单 + 话术**
+
+> 用户：一家两大一小，8 岁孩子，想吃套餐又怕油
+>
+> Skill：调用 `query-meals` + `list-nutrition-foods` → 输出
+> - 建议组合：儿童小食 + 一份小食类主食 + 大人麦麦鸡腿堡（可换）
+> - 营养说明：儿童份能量约占全餐 35%，蛋白质 22g，钠提示偏高的替换建议
+> - 3 句饭桌话术（覆盖"孩子想加薯条"场景）
+> - 成长记号：今日关键词「你今天自己拿稳了可乐，没洒」
+
+**示例 2｜成长日历回顾**
+
+> 用户：这个月记录了哪些成长时刻
+>
+> Skill：读取本地成长日历文件 → 输出本月记号清单与主题分布。
+
+---
+
+## 六、目标用户
+
+- **主要**：6–12 岁孩子的家长（90 后/95 后为主），注重亲子沟通质量，同时在意孩子的饮食结构；
+- **次要**：周末带娃外出就餐、想让孩子参与点单决策的家庭；
+- **场景**：周末商场/社区麦当劳门店、亲子出行途中、生日小聚。
+
+---
+
+## 七、隐私与合规
+
+- 所有用户数据（孩子信息、成长记录）**仅存本地**，不上传任何服务器；
+- MCP Token 只写在本地连接器配置中，仓库内只保留**环境变量占位符**；
+- 本项目为个人独立开发的参赛作品，**非麦当劳官方产品**；
+- 输出仅为家庭沟通与日常饮食参考，**不构成医疗或专业营养建议**；
+- 餐品信息、价格与供应状态以麦当劳官方渠道实时结果为准；
+- 下单动作由用户确认后执行，Agent 不代为支付。
+
+---
+
+## 八、项目结构
+
+```
+mcd-family-growth-day/
+├── README.md                    # 本文件
+├── RESULTS.md                  # 实测输出展示（真实运行结果，非示意图）
+├── CONTEST_DECLARATION.md       # 参赛声明（官方原文）
+├── MCP_INTEGRATION.md           # MCP 工具与调用流程说明（含真实调用实测记录）
+├── mcp-config.example.json      # 脱敏 MCP 配置示例
+├── workbuddy.md                 # WorkBuddy 开发对话上下文（含真实 MCP 调用记录）
+├── SKILL.md                     # Skill 主文件（可被 WorkBuddy 直接加载）
+├── LICENSE
+├── scripts/
+│   └── mcd.py                   # 零依赖 MCP CLI 客户端 + 本地配比算法
+└── references/
+    ├── nutrition-planner.md     # 营养配比算法与阈值
+    ├── nutrition-snapshot.json  # 真实抓取的 158 条营养数据快照
+    ├── talk-scripts.md          # 亲子沟通四步法与场景话术库
+    ├── growth-log-format.md     # 成长日历数据格式
+    └── official-family-activities.md  # 官方亲子活动实测记录
+```
+
+> 📊 **想直接看效果？读 [`RESULTS.md`](./RESULTS.md)** —— 里面是全部真实运行输出，
+> 每段都可用 `scripts/mcd.py` 现场复现。
+
+---
+
+## 九、实测记录（2026-10-25 真实调用）
+
+本项目所有 MCP 能力均已在真实 Token 下实际验证：
+
+| 项目 | 实测结果 |
+|---|---|
+| MCP 握手 | HTTP 200，`serverInfo: mcd-mcp v1.0.0` |
+| 工具数量 | `tools/list` 返回 **35 个** |
+| 营养数据 | `list-nutrition-foods` 返回 **160 条**真实记录 |
+| 配比算法 | 8 岁儿童 + 1 成人：全餐 1115 kcal，蛋白 59 g，儿童能量占比 **38%** |
+
+真实数据揭示的关键事实：儿童餐钠含量差异近一倍
+（`儿童鱼排堡` 442 mg vs `麦麦趣鸡球` 789 mg），
+因此算法采用「**先卡年龄段能量区间，再按蛋白排序，钠超限直接淘汰**」的策略。
+
+详见 [MCP_INTEGRATION.md](./MCP_INTEGRATION.md) 第 0 节。
+
+---
+
+## 十、许可证
+
+MIT License. 详见 [LICENSE](./LICENSE)。
+
+---
+
+## ⭐ 给这个项目点个 Star
+
+如果这个项目对你有用 —— 哪怕只是**帮你在餐厅少吵了一架**、**让孩子主动说了句谢谢** ——
+**点一下 ⭐ Star**，它能出现在更多家长的屏幕上。
+
+Star 是这个项目唯一的推广方式，也是它能继续被更多家庭用到的原因。
+
+```bash
+# 想自己跑一遍？三分钟复现全部输出
+git clone https://github.com/laojin2026/mcd-family-growth-day.git
+cd mcd-family-growth-day
+export MCD_MCP_TOKEN="你的Token"   # 见 README 第四节
+python scripts/mcd.py plan --age 8 --adults 1
+```
+
+**欢迎提 Issue。** 特别是这两种我一个人做不了的：
+
+- 🐛 **实测中发现的问题**：你所在门店的餐品、你的孩子挑食的特殊情况、某个话术场景我觉得不贴合
+- 💡 **想扩展的方向**：身高体重版、学龄期零食加餐、隔代育儿版话术
+- 🎁 **你的实测数据**：把你的配餐结果贴 Issue 里，我会做成「真实案例集」
+
+**如果你也做 MCP / Skill，欢迎来交流。** 这个项目最想遇到的是：
+同样在做 MCP 应用、愿意把真实调用记录写进文档的开发者。
+
+---
+
+*本项目为「麦当劳程序员节创意开发大赛」参赛作品，由参赛者独立开发，非麦当劳官方产品。*
