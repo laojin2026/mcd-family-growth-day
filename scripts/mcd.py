@@ -1,1 +1,277 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiIK6bqm6bqm5oiQ6ZW/5pelIMK3IE1DUCDlrqLmiLfnq68gQ0xJCj09PT09PT09PT09PT09PT09PT09PT09PT09PT0KCumbtuesrOS4ieaWueS+nei1lu+8jOS7heeUqCBQeXRob24g5qCH5YeG5bqT6YCa6L+HIFN0cmVhbWFibGUgSFRUUCDnm7Tov57puqblvZPlirMgTUNQIFNlcnZlcuOAggoK55So6YCU77yaCiAgMS4g5qCh6aqMIFRva2VuIOS4jui/numAmuaAp++8iGNoZWNr77yJCiAgMi4g5YiX5Ye65YWo6YOo5Y+v55So5bel5YW377yIdG9vbHPvvIkKICAzLiDmn6XnnIvmn5DkuKrlt6XlhbfnmoTlhaXlj4IgU2NoZW1h77yIc2NoZW1h77yJCiAgNC4g6LCD55So5Y+q6K+75bel5YW377yIY2FsbO+8iQogIDUuIOacrOWcsOiQpeWFu+mFjeavlOiuoeeul++8iHBsYW7vvInigJTigJQg5LiN6IGU572R77yM5Z+65LqOIG51dHJpdGlvbi1zbmFwc2hvdC5qc29uCgrnlKjms5XvvJoKICBleHBvcnQgTUNEX01DUF9UT0tFTj0i5L2g55qEVG9rZW4iCiAgcHl0aG9uIHNjcmlwdHMvbWNkLnB5IGNoZWNrCiAgcHl0aG9uIHNjcmlwdHMvbWNkLnB5IHRvb2xzCiAgcHl0aG9uIHNjcmlwdHMvbWNkLnB5IHNjaGVtYSBsaXN0LW51dHJpdGlvbi1mb29kcwogIHB5dGhvbiBzY3JpcHRzL21jZC5weSBjYWxsIG5vdy10aW1lLWluZm8KICBweXRob24gc2NyaXB0cy9tY2QucHkgY2FsbCBsaXN0LW51dHJpdGlvbi1mb29kcwogIHB5dGhvbiBzY3JpcHRzL21jZC5weSBwbGFuIC0tYWdlIDggLS1hZHVsdHMgMSAtLWtpZHMgMSAtLW1heC1zb2RpdW0gODAwCgrpgIDlh7rnoIHvvJowIOaIkOWKnyAvIDEg5bel5YW36ZSZ6K+vIC8gMiDpibTmnYPlpLHotKUgLyAzIOmZkOa1gSAvIDQg572R57uc6ZSZ6K+vCiIiIgoKaW1wb3J0IGpzb24KaW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IHVybGxpYi5lcnJvcgppbXBvcnQgdXJsbGliLnJlcXVlc3QKCk1DUF9VUkwgPSAiaHR0cHM6Ly9tY3AubWNkLmNuIgpQUk9UT0NPTF9WRVJTSU9OID0gIjIwMjQtMTEtMDUiClNOQVBTSE9UID0gb3MucGF0aC5qb2luKAogICAgb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKSksCiAgICAicmVmZXJlbmNlcyIsCiAgICAibnV0cml0aW9uLXNuYXBzaG90Lmpzb24iLAopCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIE1DUCDkvKDovpPlsYIKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKZGVmIGdldF90b2tlbigpOgogICAgdG9rZW4gPSBvcy5lbnZpcm9uLmdldCgiTUNEX01DUF9UT0tFTiIsICIiKS5zdHJpcCgpCiAgICBpZiBub3QgdG9rZW46CiAgICAgICAgY2ZnID0gb3MucGF0aC5qb2luKAogICAgICAgICAgICBvcy5wYXRoLmV4cGFuZHVzZXIoIn4iKSwgIi53b3JrYnVkZHkiLCAibWNwLmpzb24iCiAgICAgICAgKQogICAgICAgIGlmIG9zLnBhdGguZXhpc3RzKGNmZyk6CiAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgIHdpdGggb3BlbihjZmcsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGZoOgogICAgICAgICAgICAgICAgICAgIHJhdyA9IGZoLnJlYWQoKQogICAgICAgICAgICAgICAgc3RhcnQgPSByYXcuZmluZCgiQmVhcmVyICIpCiAgICAgICAgICAgICAgICBpZiBzdGFydCA+PSAwOgogICAgICAgICAgICAgICAgICAgIHRva2VuID0gcmF3W3N0YXJ0ICsgNzpdLnNwbGl0KCciJylbMF0uc3RyaXAoKQogICAgICAgICAgICBleGNlcHQgT1NFcnJvcjoKICAgICAgICAgICAgICAgIHBhc3MKICAgIGlmIG5vdCB0b2tlbjoKICAgICAgICBwcmludCgKICAgICAgICAgICAgIuacquaJvuWIsCBUb2tlbuOAguivt+iuvue9rueOr+Wig+WPmOmHjyBNQ0RfTUNQX1RPS0VO77yMIgogICAgICAgICAgICAi5oiW5L+d6K+BIH4vLndvcmtidWRkeS9tY3AuanNvbiDkuK3lt7LphY3nva7jgIIiLAogICAgICAgICAgICBmaWxlPXN5cy5zdGRlcnIsCiAgICAgICAgKQogICAgICAgIHN5cy5leGl0KDIpCiAgICByZXR1cm4gdG9rZW4KCgpjbGFzcyBNY3BDbGllbnQ6CiAgICBkZWYgX19pbml0X18oc2VsZik6CiAgICAgICAgc2VsZi51cmwgPSBNQ1BfVVJMCiAgICAgICAgc2VsZi5oZWFkZXJzID0gewogICAgICAgICAgICAiQXV0aG9yaXphdGlvbiI6ICJCZWFyZXIgIiArIGdldF90b2tlbigpLAogICAgICAgICAgICAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLAogICAgICAgICAgICAiQWNjZXB0IjogImFwcGxpY2F0aW9uL2pzb24sIHRleHQvZXZlbnQtc3RyZWFtIiwKICAgICAgICB9CiAgICAgICAgc2VsZi5zZXNzaW9uX2lkID0gTm9uZQogICAgICAgIHNlbGYuX2lkID0gMAoKICAgIGRlZiBfbmV4dF9pZChzZWxmKToKICAgICAgICBzZWxmLl9pZCArPSAxCiAgICAgICAgcmV0dXJuIHNlbGYuX2lkCgogICAgZGVmIHJwYyhzZWxmLCBtZXRob2QsIHBhcmFtcz1Ob25lLCBub3RpZnk9RmFsc2UpOgogICAgICAgIGJvZHkgPSB7Impzb25ycGMiOiAiMi4wIiwgIm1ldGhvZCI6IG1ldGhvZH0KICAgICAgICBpZiBub3Qgbm90aWZ5OgogICAgICAgICAgICBib2R5WyJpZCJdID0gc2VsZi5fbmV4dF9pZCgpCiAgICAgICAgaWYgcGFyYW1zIGlzIG5vdCBOb25lOgogICAgICAgICAgICBib2R5WyJwYXJhbXMiXSA9IHBhcmFtcwogICAgICAgIGhlYWRlcnMgPSBkaWN0KHNlbGYuaGVhZGVycykKICAgICAgICBpZiBzZWxmLnNlc3Npb25faWQ6CiAgICAgICAgICAgIGhlYWRlcnNbIk1jcC1TZXNzaW9uLUlkIl0gPSBzZWxmLnNlc3Npb25faWQKICAgICAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KAogICAgICAgICAgICBzZWxmLnVybCwgZGF0YT1qc29uLmR1bXBzKGJvZHkpLmVuY29kZSgpLCBoZWFkZXJzPWhlYWRlcnMsIG1ldGhvZD0iUE9TVCIKICAgICAgICApCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXNwID0gdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9NDUpCiAgICAgICAgZXhjZXB0IHVybGxpYi5lcnJvci5IVFRQRXJyb3IgYXMgZXhjOgogICAgICAgICAgICBkZXRhaWwgPSAiIgogICAgICAgICAgICB0cnk6CiAgICAgICAgICAgICAgICBkZXRhaWwgPSBleGMucmVhZCgpLmRlY29kZSgidXRmLTgiLCAicmVwbGFjZSIpCiAgICAgICAgICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgICAgICAgICBwYXNzCiAgICAgICAgICAgIGlmIGV4Yy5jb2RlID09IDQwMToKICAgICAgICAgICAgICAgIHByaW50KCLpibTmnYPlpLHotKXvvIg0MDHvvInvvJpUb2tlbiDml6DmlYjmiJblt7Lov4fmnJ/jgIIiLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgICAgICAgICBzeXMuZXhpdCgyKQogICAgICAgICAgICBpZiBleGMuY29kZSA9PSA0Mjk6CiAgICAgICAgICAgICAgICBwcmludCgi6Kem5Y+R6ZmQ5rWB77yINDI577yJ77ya6LaF6L+HIDYwMCDmrKEv5YiG6ZKf77yM6K+356iN5YCZ44CCIiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgICAgICAgICAgc3lzLmV4aXQoMykKICAgICAgICAgICAgcHJpbnQoIkhUVFAgJXM6ICVzIiAlIChleGMuY29kZSwgZGV0YWlsWzozMDBdKSwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgICAgICBzeXMuZXhpdCg0KQogICAgICAgIGV4Y2VwdCBFeGNlcHRpb24gYXMgZXhjOgogICAgICAgICAgICBwcmludCgi572R57uc6ZSZ6K+v77yaJXMiICUgZXhjLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgICAgIHN5cy5leGl0KDQpCgogICAgICAgIHNpZCA9IHJlc3AuaGVhZGVycy5nZXQoIk1jcC1TZXNzaW9uLUlkIikKICAgICAgICBpZiBzaWQ6CiAgICAgICAgICAgIHNlbGYuc2Vzc2lvbl9pZCA9IHNpZAogICAgICAgIHJhdyA9IHJlc3AucmVhZCgpLmRlY29kZSgidXRmLTgiLCAicmVwbGFjZSIpCiAgICAgICAgaWYgbm90aWZ5OgogICAgICAgICAgICByZXR1cm4gTm9uZQogICAgICAgIHBheWxvYWQgPSByYXcKICAgICAgICBpZiByYXcuc3RhcnRzd2l0aCgiZXZlbnQ6Iikgb3IgcmF3LnN0YXJ0c3dpdGgoImRhdGE6Iik6CiAgICAgICAgICAgIGZvciBsaW5lIGluIHJhdy5zcGxpdGxpbmVzKCk6CiAgICAgICAgICAgICAgICBpZiBsaW5lLnN0YXJ0c3dpdGgoImRhdGE6Iik6CiAgICAgICAgICAgICAgICAgICAgcGF5bG9hZCA9IGxpbmVbNTpdLnN0cmlwKCkKICAgICAgICAgICAgICAgICAgICBicmVhawogICAgICAgIHJldHVybiBqc29uLmxvYWRzKHBheWxvYWQpCgogICAgZGVmIGNvbm5lY3Qoc2VsZik6CiAgICAgICAgc2VsZi5ycGMoCiAgICAgICAgICAgICJpbml0aWFsaXplIiwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgInByb3RvY29sVmVyc2lvbiI6IFBST1RPQ09MX1ZFUlNJT04sCiAgICAgICAgICAgICAgICAiY2FwYWJpbGl0aWVzIjoge30sCiAgICAgICAgICAgICAgICAiY2xpZW50SW5mbyI6IHsibmFtZSI6ICJtY2QtZmFtaWx5LWdyb3d0aC1kYXkiLCAidmVyc2lvbiI6ICIxLjAifSwKICAgICAgICAgICAgfSwKICAgICAgICApCiAgICAgICAgc2VsZi5ycGMoIm5vdGlmaWNhdGlvbnMvaW5pdGlhbGl6ZWQiLCB7fSwgbm90aWZ5PVRydWUpCgogICAgZGVmIGNhbGwoc2VsZiwgbmFtZSwgYXJncz1Ob25lKToKICAgICAgICByZXN1bHQgPSBzZWxmLnJwYygidG9vbHMvY2FsbCIsIHsibmFtZSI6IG5hbWUsICJhcmd1bWVudHMiOiBhcmdzIG9yIHt9fSkKICAgICAgICBpZiByZXN1bHQuZ2V0KCJlcnJvciIpOgogICAgICAgICAgICBwcmludCgi5bel5YW36ZSZ6K+v77yaJXMiICUganNvbi5kdW1wcyhyZXN1bHRbImVycm9yIl0sIGVuc3VyZV9hc2NpaT1GYWxzZSksCiAgICAgICAgICAgICAgICAgIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICAgICAgc3lzLmV4aXQoMSkKICAgICAgICBibG9ja3MgPSByZXN1bHQuZ2V0KCJyZXN1bHQiLCB7fSkuZ2V0KCJjb250ZW50IiwgW10pCiAgICAgICAgcmV0dXJuICJcbiIuam9pbihiLmdldCgidGV4dCIsICIiKSBmb3IgYiBpbiBibG9ja3MgaWYgYi5nZXQoInR5cGUiKSA9PSAidGV4dCIpCgoKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOacrOWcsOiQpeWFu+mFjeavlAojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgpBR0VfQkFORFMgPSBbCiAgICAoMywgNiwgMjUwLCAzNTApLAogICAgKDcsIDksIDM1MCwgNDUwKSwKICAgICgxMCwgMTIsIDQ1MCwgNTUwKSwKICAgICgxMywgOTksIDU1MCwgNjUwKSwKXQoKCmRlZiBraWRfYmFuZChhZ2UpOgogICAgZm9yIGxvLCBoaSwga21pbiwga21heCBpbiBBR0VfQkFORFM6CiAgICAgICAgaWYgbG8gPD0gYWdlIDw9IGhpOgogICAgICAgICAgICByZXR1cm4gbG8sIGhpLCBrbWluLCBrbWF4CiAgICByZXR1cm4gMTMsIDk5LCA1NTAsIDY1MAoKCmRlZiBjbWRfcGxhbihhcmdzKToKICAgIHdpdGggb3BlbihTTkFQU0hPVCwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZmg6CiAgICAgICAgZm9vZHMgPSBqc29uLmxvYWQoZmgpCgogICAgYWR1bHRzID0gaW50KGFyZ3MuZ2V0KCJhZHVsdHMiLCAxKSkKICAgIGtpZHMgPSBpbnQoYXJncy5nZXQoImtpZHMiLCAxKSkKICAgIGFnZSA9IGludChhcmdzLmdldCgiYWdlIiwgOCkpCiAgICBtYXhfc29kaXVtID0gZmxvYXQoYXJncy5nZXQoIm1heF9zb2RpdW0iLCA4MDApKQogICAgXywgXywga21pbiwga21heCA9IGtpZF9iYW5kKGFnZSkKCiAgICBraWRfaXRlbXMgPSBbCiAgICAgICAgZiBmb3IgZiBpbiBmb29kcwogICAgICAgIGlmIGZbInByb3RlaW4iXSA+PSAxMCBhbmQga21pbiA8PSBmWyJrY2FsIl0gPD0ga21heCBhbmQgZlsic29kaXVtIl0gPD0gbWF4X3NvZGl1bQogICAgXQogICAga2lkX2l0ZW1zLnNvcnQoa2V5PWxhbWJkYSBmOiAoLWZbInByb3RlaW4iXSwgZlsic29kaXVtIl0pKQoKICAgIGFkdWx0X2l0ZW1zID0gWwogICAgICAgIGYgZm9yIGYgaW4gZm9vZHMKICAgICAgICBpZiBmWyJwcm90ZWluIl0gPj0gMTUgYW5kIDQwMCA8PSBmWyJrY2FsIl0gPD0gODAwIGFuZCBmWyJzb2RpdW0iXSA8PSAxMDAwCiAgICBdCiAgICBhZHVsdF9pdGVtcy5zb3J0KGtleT1sYW1iZGEgZjogKC1mWyJwcm90ZWluIl0sIGZbInNvZGl1bSJdKSkKCiAgICBwcmludCgi5YS/56ul5q6177yIJWTlsoHvvInnm67moIfog73ph48gJWQtJWQga2NhbO+8jOmSoOS4iumZkCAlLjBmIG1nIiAlIChhZ2UsIGttaW4sIGttYXgsIG1heF9zb2RpdW0pKQogICAgcHJpbnQoIuWAmemAieWEv+erpemkkOWTgSAlZCDpobnvvIzliY0gNe+8miIgJSBsZW4oa2lkX2l0ZW1zKSkKICAgIGZvciBmIGluIGtpZF9pdGVtc1s6NV06CiAgICAgICAgcHJpbnQoIiAgLSAlLTIycyBrY2FsPSU0ZCDom4vnmb09JTQuMGYg6ISCPSU0LjBmIOeisz0lNC4wZiDpkqA9JTUuMGYiCiAgICAgICAgICAgICAgJSAoZlsibmFtZSJdWzoyMl0sIGZbImtjYWwiXSwgZlsicHJvdGVpbiJdLCBmWyJmYXQiXSwgZlsiY2FyYiJdLCBmWyJzb2RpdW0iXSkpCiAgICBwcmludCgpCiAgICBwcmludCgi5YCZ6YCJ5oiQ5Lq66aSQ5ZOBICVkIOmhue+8jOWJjSA177yaIiAlIGxlbihhZHVsdF9pdGVtcykpCiAgICBmb3IgZiBpbiBhZHVsdF9pdGVtc1s6NV06CiAgICAgICAgcHJpbnQoIiAgLSAlLTIycyBrY2FsPSU0ZCDom4vnmb09JTQuMGYg6ISCPSU0LjBmIOeisz0lNC4wZiDpkqA9JTUuMGYiCiAgICAgICAgICAgICAgJSAoZlsibmFtZSJdWzoyMl0sIGZbImtjYWwiXSwgZlsicHJvdGVpbiJdLCBmWyJmYXQiXSwgZlsiY2FyYiJdLCBmWyJzb2RpdW0iXSkpCiAgICBwcmludCgpCiAgICBpZiBraWRfaXRlbXMgYW5kIGFkdWx0X2l0ZW1zOgogICAgICAgIGssIGEgPSBraWRfaXRlbXNbMF0sIGFkdWx0X2l0ZW1zWzBdCiAgICAgICAgdG90YWxfa2NhbCA9IGtbImtjYWwiXSAqIGtpZHMgKyBhWyJrY2FsIl0gKiBhZHVsdHMKICAgICAgICBraWRfc2hhcmUgPSBrWyJrY2FsIl0gKiBraWRzIC8gdG90YWxfa2NhbCAqIDEwMAogICAgICAgIHByaW50KCLmjqjojZDnu4TlkIjnpLrkvovvvJrmiJDkurogJXMgKyDlhL/nq6UgJXMiICUgKGFbIm5hbWUiXSwga1sibmFtZSJdKSkKICAgICAgICBwcmludCgiICDlhajppJDog73ph48gJWQga2NhbO+8jOibi+eZvei0qCAlLjBmIGfvvIzpkqAgJS4wZiBtZyIKICAgICAgICAgICAgICAlICh0b3RhbF9rY2FsLAogICAgICAgICAgICAgICAgIGtbInByb3RlaW4iXSAqIGtpZHMgKyBhWyJwcm90ZWluIl0gKiBhZHVsdHMsCiAgICAgICAgICAgICAgICAga1sic29kaXVtIl0gKiBraWRzICsgYVsic29kaXVtIl0gKiBhZHVsdHMpKQogICAgICAgIHByaW50KCIgIOWEv+erpeiDvemHj+WNoOavlCAlLjBmJSXvvIjnm67moIcgMzAtNDAlJe+8iSIgJSBraWRfc2hhcmUpCiAgICAgICAgcHJpbnQoIiAg6JCl5YW75pWw5o2u5p2l6Ieq6bqm5b2T5Yqz5a6Y5pa56aSQ5ZOB6JCl5YW75L+h5oGv77yM5LuF5L6b5Y+C6ICD77yM5LiN5p6E5oiQ5LiT5Lia6JCl5YW75bu66K6u44CCIikKCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMgQ0xJCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCmRlZiBtYWluKCk6CiAgICBpZiBsZW4oc3lzLmFyZ3YpIDwgMjoKICAgICAgICBwcmludChfX2RvY19fKQogICAgICAgIHJldHVybgoKICAgIGNtZCA9IHN5cy5hcmd2WzFdCiAgICBjbGllbnQgPSBNY3BDbGllbnQoKQoKICAgIGlmIGNtZCA9PSAicGxhbiI6CiAgICAgICAgYXJncyA9IHsiYWR1bHRzIjogMSwgImtpZHMiOiAxLCAiYWdlIjogOCwgIm1heF9zb2RpdW0iOiA4MDB9CiAgICAgICAgZm9yIGksIGl0ZW0gaW4gZW51bWVyYXRlKHN5cy5hcmd2WzI6XSk6CiAgICAgICAgICAgIGlmIGl0ZW0uc3RhcnRzd2l0aCgiLS0iKToKICAgICAgICAgICAgICAgIGtleSA9IGl0ZW1bMjpdCiAgICAgICAgICAgICAgICB2YWwgPSBzeXMuYXJndlszICsgaV0gaWYgMyArIGkgPCBsZW4oc3lzLmFyZ3YpIGVsc2UgIiIKICAgICAgICAgICAgICAgIGFyZ3Nba2V5XSA9IHZhbAogICAgICAgIHJldHVybiBjbWRfcGxhbihhcmdzKQoKICAgIGNsaWVudC5jb25uZWN0KCkKCiAgICBpZiBjbWQgPT0gImNoZWNrIjoKICAgICAgICBwcmludCgi6L+e5o6l5oiQ5Yqf77yM5pyN5Yqh56uv77yaJXMiICUgTUNQX1VSTCkKICAgICAgICByZXR1cm4KICAgIGlmIGNtZCA9PSAidG9vbHMiOgogICAgICAgIHRvb2xzID0gY2xpZW50LnJwYygidG9vbHMvbGlzdCIpLmdldCgicmVzdWx0Iiwge30pLmdldCgidG9vbHMiLCBbXSkKICAgICAgICBwcmludCgi5YWxICVkIOS4quW3peWFt++8miIgJSBsZW4odG9vbHMpKQogICAgICAgIGZvciB0IGluIHRvb2xzOgogICAgICAgICAgICBwcmludCgiICAtICUtMjZzICVzIiAlICh0WyJuYW1lIl0sICh0LmdldCgiZGVzY3JpcHRpb24iKSBvciAiIikuc3BsaXQoIlxuIilbMF1bOjYwXSkpCiAgICAgICAgcmV0dXJuCiAgICBpZiBjbWQgPT0gInNjaGVtYSI6CiAgICAgICAgaWYgbGVuKHN5cy5hcmd2KSA8IDM6CiAgICAgICAgICAgIHByaW50KCLnlKjms5XvvJpweXRob24gc2NyaXB0cy9tY2QucHkgc2NoZW1hIDx0b29sX25hbWU+IikKICAgICAgICAgICAgcmV0dXJuCiAgICAgICAgdGFyZ2V0ID0gc3lzLmFyZ3ZbMl0KICAgICAgICB0b29scyA9IGNsaWVudC5ycGMoInRvb2xzL2xpc3QiKS5nZXQoInJlc3VsdCIsIHt9KS5nZXQoInRvb2xzIiwgW10pCiAgICAgICAgZm9yIHQgaW4gdG9vbHM6CiAgICAgICAgICAgIGlmIHRbIm5hbWUiXSA9PSB0YXJnZXQ6CiAgICAgICAgICAgICAgICBwcmludChqc29uLmR1bXBzKHQuZ2V0KCJpbnB1dFNjaGVtYSIsIHt9KSwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MikpCiAgICAgICAgICAgICAgICByZXR1cm4KICAgICAgICBwcmludCgi5pyq5om+5Yiw5bel5YW377yaJXMiICUgdGFyZ2V0LCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgc3lzLmV4aXQoMSkKICAgIGlmIGNtZCA9PSAiY2FsbCI6CiAgICAgICAgaWYgbGVuKHN5cy5hcmd2KSA8IDM6CiAgICAgICAgICAgIHByaW50KCLnlKjms5XvvJpweXRob24gc2NyaXB0cy9tY2QucHkgY2FsbCA8dG9vbF9uYW1lPiBbanNvbl9hcmdzXSIpCiAgICAgICAgICAgIHJldHVybgogICAgICAgIG5hbWUgPSBzeXMuYXJndlsyXQogICAgICAgIGFyZ3MgPSBqc29uLmxvYWRzKHN5cy5hcmd2WzNdKSBpZiBsZW4oc3lzLmFyZ3YpID4gMyBlbHNlIHt9CiAgICAgICAgcHJpbnQoY2xpZW50LmNhbGwobmFtZSwgYXJncykpCiAgICAgICAgcmV0dXJuCgogICAgcHJpbnQoIuacquefpeWRveS7pO+8miVzIiAlIGNtZCwgZmlsZT1zeXMuc3RkZXJyKQogICAgcHJpbnQoX19kb2NfXykKICAgIHN5cy5leGl0KDEpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+#!/usr/bin/env python3
+"""
+麦麦成长日 · MCP 客户端 CLI
+============================
+
+零第三方依赖，仅用 Python 标准库通过 Streamable HTTP 直连麦当劳 MCP Server。
+
+用途：
+  1. 校验 Token 与连通性（check）
+  2. 列出全部可用工具（tools）
+  3. 查看某个工具的入参 Schema（schema）
+  4. 调用只读工具（call）
+  5. 本地营养配比计算（plan）—— 不联网，基于 nutrition-snapshot.json
+
+用法：
+  export MCD_MCP_TOKEN="你的Token"
+  python scripts/mcd.py check
+  python scripts/mcd.py tools
+  python scripts/mcd.py schema list-nutrition-foods
+  python scripts/mcd.py call now-time-info
+  python scripts/mcd.py call list-nutrition-foods
+  python scripts/mcd.py plan --age 8 --adults 1 --kids 1 --max-sodium 800
+
+退出码：0 成功 / 1 工具错误 / 2 鉴权失败 / 3 限流 / 4 网络错误
+"""
+
+import json
+import os
+import sys
+import urllib.error
+import urllib.request
+
+MCP_URL = "https://mcp.mcd.cn"
+PROTOCOL_VERSION = "2024-11-05"
+SNAPSHOT = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "references",
+    "nutrition-snapshot.json",
+)
+
+
+# --------------------------------------------------------------------------
+# MCP 传输层
+# --------------------------------------------------------------------------
+
+def get_token():
+    token = os.environ.get("MCD_MCP_TOKEN", "").strip()
+    if not token:
+        cfg = os.path.join(
+            os.path.expanduser("~"), ".workbuddy", "mcp.json"
+        )
+        if os.path.exists(cfg):
+            try:
+                with open(cfg, encoding="utf-8") as fh:
+                    raw = fh.read()
+                start = raw.find("Bearer ")
+                if start >= 0:
+                    token = raw[start + 7:].split('"')[0].strip()
+            except OSError:
+                pass
+    if not token:
+        print(
+            "未找到 Token。请设置环境变量 MCD_MCP_TOKEN，"
+            "或保证 ~/.workbuddy/mcp.json 中已配置。",
+            file=sys.stderr,
+        )
+        sys.exit(2)
+    return token
+
+
+class McpClient:
+    def __init__(self):
+        self.url = MCP_URL
+        self.headers = {
+            "Authorization": "Bearer " + get_token(),
+            "Content-Type": "application/json",
+            "Accept": "application/json, text/event-stream",
+        }
+        self.session_id = None
+        self._id = 0
+
+    def _next_id(self):
+        self._id += 1
+        return self._id
+
+    def rpc(self, method, params=None, notify=False):
+        body = {"jsonrpc": "2.0", "method": method}
+        if not notify:
+            body["id"] = self._next_id()
+        if params is not None:
+            body["params"] = params
+        headers = dict(self.headers)
+        if self.session_id:
+            headers["Mcp-Session-Id"] = self.session_id
+        req = urllib.request.Request(
+            self.url, data=json.dumps(body).encode(), headers=headers, method="POST"
+        )
+        try:
+            resp = urllib.request.urlopen(req, timeout=45)
+        except urllib.error.HTTPError as exc:
+            detail = ""
+            try:
+                detail = exc.read().decode("utf-8", "replace")
+            except Exception:
+                pass
+            if exc.code == 401:
+                print("鉴权失败（401）：Token 无效或已过期。", file=sys.stderr)
+                sys.exit(2)
+            if exc.code == 429:
+                print("触发限流（429）：超过 600 次/分钟，请稍候。", file=sys.stderr)
+                sys.exit(3)
+            print("HTTP %s: %s" % (exc.code, detail[:300]), file=sys.stderr)
+            sys.exit(4)
+        except Exception as exc:
+            print("网络错误：%s" % exc, file=sys.stderr)
+            sys.exit(4)
+
+        sid = resp.headers.get("Mcp-Session-Id")
+        if sid:
+            self.session_id = sid
+        raw = resp.read().decode("utf-8", "replace")
+        if notify:
+            return None
+        payload = raw
+        if raw.startswith("event:") or raw.startswith("data:"):
+            for line in raw.splitlines():
+                if line.startswith("data:"):
+                    payload = line[5:].strip()
+                    break
+        return json.loads(payload)
+
+    def connect(self):
+        self.rpc(
+            "initialize",
+            {
+                "protocolVersion": PROTOCOL_VERSION,
+                "capabilities": {},
+                "clientInfo": {"name": "mcd-family-growth-day", "version": "1.0"},
+            },
+        )
+        self.rpc("notifications/initialized", {}, notify=True)
+
+    def call(self, name, args=None):
+        result = self.rpc("tools/call", {"name": name, "arguments": args or {}})
+        if result.get("error"):
+            print("工具错误：%s" % json.dumps(result["error"], ensure_ascii=False),
+                  file=sys.stderr)
+            sys.exit(1)
+        blocks = result.get("result", {}).get("content", [])
+        return "\n".join(b.get("text", "") for b in blocks if b.get("type") == "text")
+
+
+# --------------------------------------------------------------------------
+# 本地营养配比
+# --------------------------------------------------------------------------
+
+AGE_BANDS = [
+    (3, 6, 250, 350),
+    (7, 9, 350, 450),
+    (10, 12, 450, 550),
+    (13, 99, 550, 650),
+]
+
+
+def kid_band(age):
+    for lo, hi, kmin, kmax in AGE_BANDS:
+        if lo <= age <= hi:
+            return lo, hi, kmin, kmax
+    return 13, 99, 550, 650
+
+
+def cmd_plan(args):
+    with open(SNAPSHOT, encoding="utf-8") as fh:
+        foods = json.load(fh)
+
+    adults = int(args.get("adults", 1))
+    kids = int(args.get("kids", 1))
+    age = int(args.get("age", 8))
+    max_sodium = float(args.get("max_sodium", 800))
+    _, _, kmin, kmax = kid_band(age)
+
+    kid_items = [
+        f for f in foods
+        if f["protein"] >= 10 and kmin <= f["kcal"] <= kmax and f["sodium"] <= max_sodium
+    ]
+    kid_items.sort(key=lambda f: (-f["protein"], f["sodium"]))
+
+    adult_items = [
+        f for f in foods
+        if f["protein"] >= 15 and 400 <= f["kcal"] <= 800 and f["sodium"] <= 1000
+    ]
+    adult_items.sort(key=lambda f: (-f["protein"], f["sodium"]))
+
+    print("儿童段（%d岁）目标能量 %d-%d kcal，钠上限 %.0f mg" % (age, kmin, kmax, max_sodium))
+    print("候选儿童餐品 %d 项，前 5：" % len(kid_items))
+    for f in kid_items[:5]:
+        print("  - %-22s kcal=%4d 蛋白=%4.0f 脂=%4.0f 碳=%4.0f 钠=%5.0f"
+              % (f["name"][:22], f["kcal"], f["protein"], f["fat"], f["carb"], f["sodium"]))
+    print()
+    print("候选成人餐品 %d 项，前 5：" % len(adult_items))
+    for f in adult_items[:5]:
+        print("  - %-22s kcal=%4d 蛋白=%4.0f 脂=%4.0f 碳=%4.0f 钠=%5.0f"
+              % (f["name"][:22], f["kcal"], f["protein"], f["fat"], f["carb"], f["sodium"]))
+    print()
+    if kid_items and adult_items:
+        k, a = kid_items[0], adult_items[0]
+        total_kcal = k["kcal"] * kids + a["kcal"] * adults
+        kid_share = k["kcal"] * kids / total_kcal * 100
+        print("推荐组合示例：成人 %s + 儿童 %s" % (a["name"], k["name"]))
+        print("  全餐能量 %d kcal，蛋白质 %.0f g，钠 %.0f mg"
+              % (total_kcal,
+                 k["protein"] * kids + a["protein"] * adults,
+                 k["sodium"] * kids + a["sodium"] * adults))
+        print("  儿童能量占比 %.0f%%（目标 30-40%%）" % kid_share)
+        print("  营养数据来自麦当劳官方餐品营养信息，仅供参考，不构成专业营养建议。")
+
+
+# --------------------------------------------------------------------------
+# CLI
+# --------------------------------------------------------------------------
+
+def main():
+    if len(sys.argv) < 2:
+        print(__doc__)
+        return
+
+    cmd = sys.argv[1]
+    client = McpClient()
+
+    if cmd == "plan":
+        args = {"adults": 1, "kids": 1, "age": 8, "max_sodium": 800}
+        for i, item in enumerate(sys.argv[2:]):
+            if item.startswith("--"):
+                key = item[2:]
+                val = sys.argv[3 + i] if 3 + i < len(sys.argv) else ""
+                args[key] = val
+        return cmd_plan(args)
+
+    client.connect()
+
+    if cmd == "check":
+        print("连接成功，服务端：%s" % MCP_URL)
+        return
+    if cmd == "tools":
+        tools = client.rpc("tools/list").get("result", {}).get("tools", [])
+        print("共 %d 个工具：" % len(tools))
+        for t in tools:
+            print("  - %-26s %s" % (t["name"], (t.get("description") or "").split("\n")[0][:60]))
+        return
+    if cmd == "schema":
+        if len(sys.argv) < 3:
+            print("用法：python scripts/mcd.py schema <tool_name>")
+            return
+        target = sys.argv[2]
+        tools = client.rpc("tools/list").get("result", {}).get("tools", [])
+        for t in tools:
+            if t["name"] == target:
+                print(json.dumps(t.get("inputSchema", {}), ensure_ascii=False, indent=2))
+                return
+        print("未找到工具：%s" % target, file=sys.stderr)
+        sys.exit(1)
+    if cmd == "call":
+        if len(sys.argv) < 3:
+            print("用法：python scripts/mcd.py call <tool_name> [json_args]")
+            return
+        name = sys.argv[2]
+        args = json.loads(sys.argv[3]) if len(sys.argv) > 3 else {}
+        print(client.call(name, args))
+        return
+
+    print("未知命令：%s" % cmd, file=sys.stderr)
+    print(__doc__)
+    sys.exit(1)
+
+
+if __name__ == "__main__":
+    main()
