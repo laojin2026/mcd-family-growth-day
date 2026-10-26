@@ -1,1 +1,56 @@
-IyDokKXlhbvphY3mr5Tnrpfms5XkuI7pmIjlgLwKCiMjIOaVsOaNruadpea6kAoK5omA5pyJ6JCl5YW75pWw5YC8Kirlv4XpobsqKuadpeiHqiBgbGlzdC1udXRyaXRpb24tZm9vZHNgIOeahOecn+Wunui/lOWbnu+8jOWtl+auteWMheaLrO+8mgrog73ph4/vvIhrY2Fs77yJ44CB6JuL55m96LSo44CB6ISC6IKq44CB56Kz5rC05YyW5ZCI54mp44CB6ZKg44CB6ZKZ44CCCgrnpoHmraLlh63orrDlv4bloavlhpnku7vkvZXmlbDlgLzjgILoi6XmjqXlj6PmnKrov5Tlm57mn5DppJDlk4HmlbDmja7vvIzliJnor6XppJDlk4HkuI3lj4LkuI7phY3ppJDorqHnrpfjgIIKCi0tLQoKIyMg5LiA44CB6IO96YeP5YiG6YWN6KeE5YiZCgrorr7mgLvog73ph4/pnIDmsYIgYEVfdG90YWxg77yI5ZCr5oiQ5Lq6ICsg5YWo6YOo5YS/56ul77yJ77yM5ZCE5oiQ5Lq65Lu95YiG6YWNIGBFX2FkdWx0YO+8jOWEv+erpeS7veWIhumFjSBgRV9jaGlsZGDjgIIKCnwg5YS/56ul5bm06b6E5q61IHwg5YS/56ul5Lu96IO96YeP5Y2g5YWo6aSQ5q+U6YeNIHwg5Y2V5Liq5YS/56ul5Lu96IO96YeP5Y+C6ICD5Yy66Ze0IHwKfC0tLXwtLS18LS0tfAp8IDPigJM2IOWygSB8IDI1JeKAkzMwJSB8IDI1MOKAkzM1MCBrY2FsIHwKfCA34oCTOSDlsoEgfCAzMCXigJMzNSUgfCAzNTDigJM0NTAga2NhbCB8CnwgMTDigJMxMiDlsoEgfCAzNSXigJM0MCUgfCA0NTDigJM1NTAga2NhbCB8CnwgMTMg5bKB5Lul5LiKIHwgNDAl4oCTNDUlIHwgNTUw4oCTNjUwIGtjYWwgfAoKKirnuqbmnZ8qKu+8muWEv+erpeS7veiDvemHj+WNoOavlOW6lOiQveWcqOWMuumXtOWGheOAgui2heWHuuS4iumZkOaXtuaPkOekuiLlj6/miorlhL/nq6XppJDnmoTkuLvpo5/lh4/ljYrvvIzmiJbooaXkuIDku73olKzoj5zlsI/po58i44CCCgojIyDkuozjgIHom4vnmb3otKjop4TliJkKCi0g5q+P6aSQ5Lq65Z2H6JuL55m96LSo5Y+C6ICD6YeP77yaYEVfdG90YWwgLyAxMDBg77yI57KX55Wl57O75pWw77yM5a6e6ZmF5Lul5o6l5Y+j6L+U5Zue55qE6JuL55m96LSo5YWL5pWw5qCh6aqM77yJ44CCCi0gKirlhL/nq6XljZXku73om4vnmb3otKjkuI3kvY7kuo4gMTBnKirvvJvovr7kuI3liLDml7bkvJjlhYjpgInmi6nlkKvogokv6JuLL+WltueahOWTgemhueihpei2s+OAggotIOWFqOmkkOibi+eZvei0qOaAu+mHj+WPguiAg+WMuumXtO+8mmBFX3RvdGFsIMOXIDAuMTAgfiBFX3RvdGFsIMOXIDAuMThg77yIa2NhbCDlr7nlupQgZ++8ieOAggoKIyMg5LiJ44CB6ZKg5o6n5Yi2CgotIOmSoOS4iumZkOWPguiAg++8mmBFX3RvdGFsIMOXIDAuMDAxNWDvvIhn77yJ44CCCi0g6LaF6ZmQ5pe277yM5LyY5YWI5pu/5o2i77ya6IWM5riNL+WKoOW3peiCieexuyDihpIg5Y6f5ZGz6IKJ57G777yb57uE5ZCI5aWX6aSQ5Y2V54K5IOKGkiDliIbngrnljZXjgIIKLSDmmI7noa7mj5DnpLrvvJoi6L+Z5LiA6aSQ6ZKg5YGP6auY77yM5LiL5LiA6aSQ5Y+v5Lul6YCJ5riF5reh5LiA54K555qE44CCIgoKIyMg5Zub44CB5ZOB57G75LiO5Y+j5oSf57qm5p2fCgotIOWEv+erpemkkOWTgeS8mOWFiOmhuuW6j++8muWEv+erpeS4k+WxnuWTgemhuSA+IOWwj+S7veWIhueCuSA+IOaIkOS6uumkkOWTgeWHj+mHj+OAggotIOWEv+erpeaOpeWPl+W6pumrmOeahOWTgemhue+8iOeUnOWRs+OAgeWPo+aEn+i9r+OAgeWIhumHj+Wwj++8ieS8mOWFiOOAggotIOmBv+WFjee7meWEv+erpeaOqOiNkOWkp+S7veayueeCuOS4u+mjn+S9nOS4uuWUr+S4gOS4u+S9k+OAggoKIyMg5LqU44CB5pa55qGI6L6T5Ye66KaB5rGCCgrmr4/lpZfmlrnmoYjlv4Xpobvnu5nlh7rvvJoKCjEuIOaIkOS6uuS7veWFt+S9k+WTgemhue+8iOadpeiHqiBgcXVlcnktbWVhbHNg77yJ77ybCjIuIOavj+S4quWEv+erpeS7veWFt+S9k+WTgemhue+8mwozLiDog73ph4/liIbphY3nmb7liIbmr5QgKyDom4vnmb3otKjlhYvmlbDvvJsKNC4gKirkuIDkuKoqKuWPr+abv+aNoumhue+8iOadpeiHqiBgcXVlcnktbWVhbC1kZXRhaWxgIOeahOWPr+abv+aNouWIl+ihqO+8ie+8mwo1LiDkuIDlj6Xor53or7TmmI7kuLrku4DkuYjov5nmoLfphY3jgIIKCiMjIOWFreOAgeihqOi/sOinhOiMgwoKLSDnlKjjgIznuqbljaDjgI3jgIzlpKfnuqbjgI3jgIzlj4LogIPjgI3vvIzkuI3or7TjgIzkv53or4HjgI3jgIzmnInliqnkuo7plb/pq5jjgI3jgIzlgaXlurfjgI3nrYnor4Tku7fmgKfnu5PorrrjgIIKLSDnu5PlsL7pmYTkuIDlj6XvvJrjgIzokKXlhbvmlbDmja7mnaXoh6rpuqblvZPlirPlrpjmlrnppJDlk4HokKXlhbvkv6Hmga/vvIzku4Xkvpvlj4LogIPvvIzkuI3mnoTmiJDkuJPkuJrokKXlhbvlu7rorq7jgILjgI0K
+# 营养配比算法与阈值
+
+## 数据来源
+
+所有营养数值**必须**来自 `list-nutrition-foods` 的真实返回，字段包括：
+能量（kcal）、蛋白质、脂肪、碳水化合物、钠、钙。
+
+禁止凭记忆填写任何数值。若接口未返回某餐品数据，则该餐品不参与配餐计算。
+
+---
+
+## 一、能量分配规则
+
+设总能量需求 `E_total`（含成人 + 全部儿童），各成人份分配 `E_adult`，儿童份分配 `E_child`。
+
+| 儿童年龄段 | 儿童份能量占全餐比重 | 单个儿童份能量参考区间 |
+|---|---|---|
+| 3–6 岁 | 25%–30% | 250–350 kcal |
+| 7–9 岁 | 30%–35% | 350–450 kcal |
+| 10–12 岁 | 35%–40% | 450–550 kcal |
+| 13 岁以上 | 40%–45% | 550–650 kcal |
+
+**约束**：儿童份能量占比应落在区间内。超出上限时提示"可把儿童餐的主食减半，或补一份蔬菜小食"。
+
+## 二、蛋白质规则
+
+- 每餐人均蛋白质参考量：`E_total / 100`（粗略系数，实际以接口返回的蛋白质克数校验）。
+- **儿童单份蛋白质不低于 10g**；达不到时优先选择含肉/蛋/奶的品项补足。
+- 全餐蛋白质总量参考区间：`E_total × 0.10 ~ E_total × 0.18`（kcal 对应 g）。
+
+## 三、钠控制
+
+- 钠上限参考：`E_total × 0.0015`（g）。
+- 超限时，优先替换：腌渍/加工肉类 → 原味肉类；组合套餐单点 → 分点单。
+- 明确提示："这一餐钠偏高，下一餐可以选清淡一点的。"
+
+## 四、品类与口感约束
+
+- 儿童餐品优先顺序：儿童专属品项 > 小份分点 > 成人餐品减量。
+- 儿童接受度高的品项（甜味、口感软、分量小）优先。
+- 避免给儿童推荐大份油炸主食作为唯一主体。
+
+## 五、方案输出要求
+
+每套方案必须给出：
+
+1. 成人份具体品项（来自 `query-meals`）；
+2. 每个儿童份具体品项；
+3. 能量分配百分比 + 蛋白质克数；
+4. **一个**可替换项（来自 `query-meal-detail` 的可替换列表）；
+5. 一句话说明为什么这样配。
+
+## 六、表述规范
+
+- 用「约占」「大约」「参考」，不说「保证」「有助于长高」「健康」等评价性结论。
+- 结尾附一句：「营养数据来自麦当劳官方餐品营养信息，仅供参考，不构成专业营养建议。」
