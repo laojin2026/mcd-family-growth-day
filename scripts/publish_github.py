@@ -1,1 +1,216 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMw0KIiIiDQrkuIDplK7lj5HluIPliLAgR2l0SHVi77yI6bqm6bqm5oiQ6ZW/5pelIMK3IOWPgui1m+eUqO+8iQ0KPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQ0KDQrnlKggR2l0SHViIFJFU1QgQVBJIOWujOaIkO+8muWIm+W7uuWFrOW8gOS7k+W6kyDihpIg5LiK5Lyg5YWo6YOo5paH5Lu2IOKGkiDorr7kuLrlhazlvIDjgIINCumbtuesrOS4ieaWueS+nei1lu+8jOS7heeUqCBQeXRob24g5qCH5YeG5bqT44CCDQoNCueUqOazle+8mg0KICAgIGV4cG9ydCBHSVRIVUJfVE9LRU49IuS9oOeahFBlcnNvbmFsIEFjY2VzcyBUb2tlbiINCiAgICBweXRob24gc2NyaXB0cy9wdWJsaXNoX2dpdGh1Yi5weSAtLXJlcG8gbWNkLWZhbWlseS1ncm93dGgtZGF5DQoNCumcgOimgSBUb2tlbiDmnYPpmZDvvJoNCiAgICAtIHJlcG8gc2NvcGXvvIjliJvlu7rku5PlupMgKyDmjqjpgIHlhoXlrrnvvIkNCiAgICBUb2tlbiDojrflj5blnLDlnYDvvJpodHRwczovL2dpdGh1Yi5jb20vc2V0dGluZ3MvdG9rZW5zL25ldw0KICAgIOWLvumAiSAicHVibGljX3JlcG8iIOWNs+WPr++8iOWLviByZXBvIOS5n+ihjO+8iQ0KDQrpgIDlh7rnoIHvvJowIOaIkOWKnyAvIDEg5Y+C5pWw5oiW546v5aKD57y65aSxIC8gMiBHaXRIdWIgQVBJIOmUmeivrw0KIiIiDQoNCmltcG9ydCBiYXNlNjQNCmltcG9ydCBqc29uDQppbXBvcnQgb3MNCmltcG9ydCBzeXMNCmltcG9ydCB0aW1lDQppbXBvcnQgdXJsbGliLmVycm9yDQppbXBvcnQgdXJsbGliLnJlcXVlc3QNCg0KQVBJID0gImh0dHBzOi8vYXBpLmdpdGh1Yi5jb20iDQpSRVBPX1JPT1QgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpKQ0KDQojIOmcgOimgeS4iuS8oOeahOaWh+S7tu+8iOebuOWvueS7k+W6k+ague+8ie+8jOWFqOmDqOS9v+eUqCBQT1NJWCDot6/lvoTliIbpmpTnrKYNCkZJTEVTID0gWw0KICAgICIuZ2l0aWdub3JlIiwNCiAgICAiUkVBRE1FLm1kIiwNCiAgICAiUkVTVUxUUy5tZCIsDQogICAgIkNPTlRFU1RfREVDTEFSQVRJT04ubWQiLA0KICAgICJNQ1BfSU5URUdSQVRJT04ubWQiLA0KICAgICJtY3AtY29uZmlnLmV4YW1wbGUuanNvbiIsDQogICAgIndvcmtidWRkeS5tZCIsDQogICAgIlNLSUxMLm1kIiwNCiAgICAiTElDRU5TRSIsDQogICAgInNjcmlwdHMvbWNkLnB5IiwNCiAgICAic2NyaXB0cy9wdWJsaXNoX2dpdGh1Yi5weSIsDQogICAgInJlZmVyZW5jZXMvbnV0cml0aW9uLXBsYW5uZXIubWQiLA0KICAgICJyZWZlcmVuY2VzL251dHJpdGlvbi1zbmFwc2hvdC5qc29uIiwNCiAgICAicmVmZXJlbmNlcy90YWxrLXNjcmlwdHMubWQiLA0KICAgICJyZWZlcmVuY2VzL2dyb3d0aC1sb2ctZm9ybWF0Lm1kIiwNCiAgICAicmVmZXJlbmNlcy9vZmZpY2lhbC1mYW1pbHktYWN0aXZpdGllcy5tZCIsDQpdDQoNCkNPTU1JVF9NU0cgPSAiZmVhdDog6bqm6bqm5oiQ6ZW/5pelIC0g5Lqy5a2Q54K55Y2V5LiO5rKf6YCa5Yqp5omLIg0KDQoNCmRlZiBnZXRfdG9rZW4oKToNCiAgICB0b2tlbiA9IG9zLmVudmlyb24uZ2V0KCJHSVRIVUJfVE9LRU4iLCAiIikuc3RyaXAoKQ0KICAgIGlmIG5vdCB0b2tlbjoNCiAgICAgICAgcHJpbnQoIumUmeivr++8muacquiuvue9riBHSVRIVUJfVE9LRU4g546v5aKD5Y+Y6YeP44CCIiwgZmlsZT1zeXMuc3RkZXJyKQ0KICAgICAgICBwcmludCgi6K+35YWI5omn6KGM77yaIGV4cG9ydCBHSVRIVUJfVE9LRU49XCLkvaDnmoRUb2tlblwiIiwgZmlsZT1zeXMuc3RkZXJyKQ0KICAgICAgICBzeXMuZXhpdCgxKQ0KICAgIHJldHVybiB0b2tlbg0KDQoNCmRlZiBhcGkobWV0aG9kLCBwYXRoLCB0b2tlbiwgcGF5bG9hZD1Ob25lKToNCiAgICB1cmwgPSBwYXRoIGlmIHBhdGguc3RhcnRzd2l0aCgiaHR0cCIpIGVsc2UgQVBJICsgcGF0aA0KICAgIGRhdGEgPSBqc29uLmR1bXBzKHBheWxvYWQpLmVuY29kZSgpIGlmIHBheWxvYWQgaXMgbm90IE5vbmUgZWxzZSBOb25lDQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdCgNCiAgICAgICAgdXJsLA0KICAgICAgICBkYXRhPWRhdGEsDQogICAgICAgIG1ldGhvZD1tZXRob2QsDQogICAgICAgIGhlYWRlcnM9ew0KICAgICAgICAgICAgIkF1dGhvcml6YXRpb24iOiAiQmVhcmVyICIgKyB0b2tlbiwNCiAgICAgICAgICAgICJBY2NlcHQiOiAiYXBwbGljYXRpb24vdm5kLmdpdGh1Yitqc29uIiwNCiAgICAgICAgICAgICJYLUdpdEh1Yi1BcGktVmVyc2lvbiI6ICIyMDIyLTExLTI4IiwNCiAgICAgICAgICAgICJDb250ZW50LVR5cGUiOiAiYXBwbGljYXRpb24vanNvbiIsDQogICAgICAgICAgICAiVXNlci1BZ2VudCI6ICJtY2QtZmFtaWx5LWdyb3d0aC1kYXktcHVibGlzaGVyIiwNCiAgICAgICAgfSwNCiAgICApDQogICAgdHJ5Og0KICAgICAgICByZXNwID0gdXJsbGliLnJlcXVlc3QudXJsb3BlbihyZXEsIHRpbWVvdXQ9NDUpDQogICAgICAgIGJvZHkgPSByZXNwLnJlYWQoKS5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKQ0KICAgICAgICByZXR1cm4ganNvbi5sb2Fkcyhib2R5KSBpZiBib2R5LnN0cmlwKCkgZWxzZSB7fQ0KICAgIGV4Y2VwdCB1cmxsaWIuZXJyb3IuSFRUUEVycm9yIGFzIGV4YzoNCiAgICAgICAgZGV0YWlsID0gZXhjLnJlYWQoKS5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKQ0KICAgICAgICB0cnk6DQogICAgICAgICAgICBtc2cgPSBqc29uLmxvYWRzKGRldGFpbCkuZ2V0KCJtZXNzYWdlIiwgZGV0YWlsKQ0KICAgICAgICBleGNlcHQgRXhjZXB0aW9uOg0KICAgICAgICAgICAgbXNnID0gZGV0YWlsDQogICAgICAgIHJhaXNlIFJ1bnRpbWVFcnJvcigiR2l0SHViIEFQSSAlcyAlcyAtPiBIVFRQICVzOiAlcyIgJSAobWV0aG9kLCBwYXRoLCBleGMuY29kZSwgbXNnKSkNCiAgICBleGNlcHQgdXJsbGliLmVycm9yLlVSTEVycm9yIGFzIGV4YzoNCiAgICAgICAgcmFpc2UgUnVudGltZUVycm9yKCLnvZHnu5zplJnor6/vvJolcyIgJSBleGMpDQoNCg0KZGVmIGdldF9sb2dpbih0b2tlbik6DQogICAgcmV0dXJuIGFwaSgiR0VUIiwgIi91c2VyIiwgdG9rZW4pWyJsb2dpbiJdDQoNCg0KZGVmIHJlcG9fZXhpc3RzKHRva2VuLCBvd25lciwgbmFtZSk6DQogICAgdHJ5Og0KICAgICAgICBhcGkoIkdFVCIsICIvcmVwb3MvJXMvJXMiICUgKG93bmVyLCBuYW1lKSwgdG9rZW4pDQogICAgICAgIHJldHVybiBUcnVlDQogICAgZXhjZXB0IFJ1bnRpbWVFcnJvcjoNCiAgICAgICAgcmV0dXJuIEZhbHNlDQoNCg0KZGVmIGNyZWF0ZV9yZXBvKHRva2VuLCBuYW1lKToNCiAgICByZXR1cm4gYXBpKA0KICAgICAgICAiUE9TVCIsDQogICAgICAgICIvdXNlci9yZXBvcyIsDQogICAgICAgIHRva2VuLA0KICAgICAgICB7DQogICAgICAgICAgICAibmFtZSI6IG5hbWUsDQogICAgICAgICAgICAiZGVzY3JpcHRpb24iOiAi6bqm6bqm5oiQ6ZW/5pelIMK3IOS6suWtkOeCueWNleS4juayn+mAmuWKqeaJiyDigJTigJQg5Z+65LqO6bqm5b2T5YqzIE1DUCDnmoQgU2tpbGzjgILmiorkuIDpob/puqblvZPlirPlj5jmiJDkuIDmrKHmnInokKXlhbvkvp3mja7jgIHmnInmsp/pgJrohJrmnKzjgIHmnInmiJDplb/orrDlj7fnmoTlrrbluq3kupLliqjjgIIiLA0KICAgICAgICAgICAgInB1YmxpYyI6IFRydWUsDQogICAgICAgICAgICAiYXV0b19pbml0IjogRmFsc2UsDQogICAgICAgICAgICAiaGFzX2lzc3VlcyI6IFRydWUsDQogICAgICAgICAgICAiaGFzX3dpa2kiOiBGYWxzZSwNCiAgICAgICAgfSwNCiAgICApDQoNCg0KZGVmIGZpbGVfdG9fdHJlZV9lbnRyeShyZWxfcGF0aCk6DQogICAgYWJzX3BhdGggPSBvcy5wYXRoLmpvaW4oUkVQT19ST09ULCByZWxfcGF0aC5yZXBsYWNlKCIvIiwgb3Muc2VwKSkNCiAgICB3aXRoIG9wZW4oYWJzX3BhdGgsICJyYiIpIGFzIGZoOg0KICAgICAgICBjb250ZW50ID0gZmgucmVhZCgpDQogICAgYjY0ID0gYmFzZTY0LmI2NGVuY29kZShjb250ZW50KS5kZWNvZGUoKQ0KICAgIG1vZGUgPSAiMTAwNzU1IiBpZiByZWxfcGF0aC5lbmRzd2l0aCgiLnB5IikgZWxzZSAiMTAwNjQ0Ig0KICAgIHJldHVybiB7DQogICAgICAgICJwYXRoIjogcmVsX3BhdGgsDQogICAgICAgICJtb2RlIjogbW9kZSwNCiAgICAgICAgInR5cGUiOiAiYmxvYiIsDQogICAgICAgICJjb250ZW50IjogYjY0LA0KICAgIH0NCg0KDQpkZWYgcHVzaF90cmVlKHRva2VuLCBvd25lciwgbmFtZSwgYnJhbmNoLCBtZXNzYWdlKToNCiAgICAiIiLnlKggR2l0IFRyZWVzIEFQSSDkuIDmrKHmgKfmj5DkuqTlhajpg6jmlofku7bvvIjmr5TpgJDkuKogUFVUIOW/q+S4lOWPr+mdoO+8iSIiIg0KICAgIGVudHJpZXMgPSBbZmlsZV90b190cmVlX2VudHJ5KHApIGZvciBwIGluIEZJTEVTXQ0KICAgIHByaW50KCIgIOWHhuWkh+S4iuS8oCAlZCDkuKrmlofku7YuLi4iICUgbGVuKGVudHJpZXMpKQ0KICAgIHRyZWUgPSBhcGkoDQogICAgICAgICJQT1NUIiwNCiAgICAgICAgIi9yZXBvcy8lcy8lcy9naXQvdHJlZXMiICUgKG93bmVyLCBuYW1lKSwNCiAgICAgICAgdG9rZW4sDQogICAgICAgIHsiYmFzZV90cmVlIjogTm9uZSwgInRyZWUiOiBlbnRyaWVzfSwNCiAgICApDQogICAgY29tbWl0ID0gYXBpKA0KICAgICAgICAiUE9TVCIsDQogICAgICAgICIvcmVwb3MvJXMvJXMvZ2l0L2NvbW1pdHMiICUgKG93bmVyLCBuYW1lKSwNCiAgICAgICAgdG9rZW4sDQogICAgICAgIHsNCiAgICAgICAgICAgICJtZXNzYWdlIjogbWVzc2FnZSwNCiAgICAgICAgICAgICJ0cmVlIjogdHJlZVsic2hhIl0sDQogICAgICAgICAgICAicGFyZW50cyI6IFtdLA0KICAgICAgICB9LA0KICAgICkNCiAgICByZWYgPSBhcGkoDQogICAgICAgICJQT1NUIiwNCiAgICAgICAgIi9yZXBvcy8lcy8lcy9naXQvcmVmcyIgJSAob3duZXIsIG5hbWUpLA0KICAgICAgICB0b2tlbiwNCiAgICAgICAgeyJyZWYiOiAicmVmcy9oZWFkcy8iICsgYnJhbmNoLCAic2hhIjogY29tbWl0WyJzaGEiXX0sDQogICAgKQ0KICAgIHJldHVybiBjb21taXRbInNoYSJdLCByZWZbInJlZiJdDQoNCg0KZGVmIG1haW4oKToNCiAgICByZXBvX25hbWUgPSAibWNkLWZhbWlseS1ncm93dGgtZGF5Ig0KICAgIGFyZ3MgPSBzeXMuYXJndlsxOl0NCiAgICBpZiAiLS1yZXBvIiBpbiBhcmdzOg0KICAgICAgICBpZHggPSBhcmdzLmluZGV4KCItLXJlcG8iKQ0KICAgICAgICBpZiBpZHggKyAxIDwgbGVuKGFyZ3MpOg0KICAgICAgICAgICAgcmVwb19uYW1lID0gYXJnc1tpZHggKyAxXQ0KDQogICAgdG9rZW4gPSBnZXRfdG9rZW4oKQ0KICAgIGxvZ2luID0gZ2V0X2xvZ2luKHRva2VuKQ0KICAgIHByaW50KCJHaXRIdWIg6LSm5Y+377yaJXMiICUgbG9naW4pDQoNCiAgICBvd25lciA9IGxvZ2luDQogICAgaWYgcmVwb19leGlzdHModG9rZW4sIG93bmVyLCByZXBvX25hbWUpOg0KICAgICAgICBwcmludCgi5LuT5bqT5bey5a2Y5Zyo77yaJXMvJXPvvIjlsIbnm7TmjqXmjqjpgIHmlofku7bvvIkiICUgKG93bmVyLCByZXBvX25hbWUpKQ0KICAgIGVsc2U6DQogICAgICAgIHByaW50KCLliJvlu7rlhazlvIDku5PlupMgJXMvJXMgLi4uIiAlIChvd25lciwgcmVwb19uYW1lKSkNCiAgICAgICAgY3JlYXRlX3JlcG8odG9rZW4sIHJlcG9fbmFtZSkNCiAgICAgICAgdGltZS5zbGVlcCgyKQ0KDQogICAgc2hhLCByZWYgPSBwdXNoX3RyZWUodG9rZW4sIG93bmVyLCByZXBvX25hbWUsICJtYWluIiwgQ09NTUlUX01TRykNCiAgICBwcmludCgiICDmj5DkuqTmiJDlip/vvJolcyIgJSBzaGFbOjhdKQ0KDQogICAgdXJsID0gImh0dHBzOi8vZ2l0aHViLmNvbS8lcy8lcyIgJSAob3duZXIsIHJlcG9fbmFtZSkNCiAgICBwcmludCgpDQogICAgcHJpbnQoIj0iICogNTYpDQogICAgcHJpbnQoIuWujOaIkO+8geS7k+W6k+WcsOWdgO+8miIpDQogICAgcHJpbnQoIiAgIiArIHVybCkNCiAgICBwcmludCgiPSIgKiA1NikNCiAgICBwcmludCgpDQogICAgcHJpbnQoIuaOpeS4i+adpe+8miIpDQogICAgcHJpbnQoIjEuIOaJk+W8gOS4iumdoueahOWcsOWdgO+8jOehruiupOaWh+S7tumDveWcqOOAgeS7k+W6k+aYryBQdWJsaWMiKQ0KICAgIHByaW50KCIyLiDliLDlrpjmlrnku5PlupPmj5DkuqTmiqXlkI0gSXNzdWXvvJoiKQ0KICAgIHByaW50KCIgICBodHRwczovL2dpdGh1Yi5jb20vTS1DaGluYS9tY2QtZGV2ZWxvcGVyLWlubm92YXRpb24tY2hhbGxlbmdlL2lzc3VlcyIpDQogICAgcHJpbnQoKQ0KICAgIHByaW50KCIgICBJc3N1ZSDmoIfpopjvvIjmoIfpopjkuI7mraPmlofkuYvpl7TkuI3opoHmnInmjaLooYzvvInvvJoiKQ0KICAgIHByaW50KCIgICDpuqbpuqbmiJDplb/ml6UgLSDkurLlrZDngrnljZXkuI7msp/pgJrliqnmiYsiKQ0KICAgIHByaW50KCkNCiAgICBwcmludCgiICAgSXNzdWUg5q2j5paH77yI5ZCE5a2X5q615LmL6Ze05LiN6KaB5pyJ5o2i6KGM77yJ77yaIikNCiAgICBwcmludCgiICAg44CQ5Y+C6LWb55Sz6K+344CRIikNCiAgICBwcmludCgiICAg6aG555uu5ZCN56ew77ya6bqm6bqm5oiQ6ZW/5pelIMK3IOS6suWtkOeCueWNleS4juayn+mAmuWKqeaJiyIpDQogICAgcHJpbnQoIiAgIOmhueebruWcsOWdgO+8miIgKyB1cmwpDQogICAgcHJpbnQoIiAgIOmhueebrueugOS7i++8muWfuuS6jum6puW9k+WKs01DUOWumOaWueiQpeWFu+S4juiPnOWNleaVsOaNru+8jOS4uuW4puWtqeWtkOWQg+m6puW9k+WKs+eahOWutuW6reS4gOmUrumFjeWHuuiDvemHj+ibi+eZvei0qOWdh+ihoeeahOWll+mkkO+8jCINCiAgICAgICAgICAi5bm255Sf5oiQ5Lqy5a2Q5rKf6YCa5Zub5q2l5rOV6aWt5qGM6K+d5pyv5LiO5oiQ6ZW/6K6w5Y+377yM5oqK5LiA5qyh6ZqP5omL54K55Y2V5Y+Y5oiQ5LiA5qyh6auY6LSo6YeP5Lqy5a2Q5LqS5Yqo44CCIikNCg0KDQppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOg0KICAgIHRyeToNCiAgICAgICAgbWFpbigpDQogICAgZXhjZXB0IFJ1bnRpbWVFcnJvciBhcyBleGM6DQogICAgICAgIHByaW50KCLlpLHotKXvvJolcyIgJSBleGMsIGZpbGU9c3lzLnN0ZGVycikNCiAgICAgICAgc3lzLmV4aXQoMikNCg==
+#!/usr/bin/env python3
+"""
+一键发布到 GitHub（麦麦成长日 · 参赛用）
+=====================================
+
+用 GitHub REST API 完成：创建公开仓库 → 上传全部文件 → 设为公开。
+零第三方依赖，仅用 Python 标准库。
+
+用法：
+    export GITHUB_TOKEN="你的Personal Access Token"
+    python scripts/publish_github.py --repo mcd-family-growth-day
+
+需要 Token 权限：
+    - repo scope（创建仓库 + 推送内容）
+    Token 获取地址：https://github.com/settings/tokens/new
+    勾选 "public_repo" 即可（勾 repo 也行）
+
+退出码：0 成功 / 1 参数或环境缺失 / 2 GitHub API 错误
+"""
+
+import base64
+import json
+import os
+import sys
+import time
+import urllib.error
+import urllib.request
+
+API = "https://api.github.com"
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# 需要上传的文件（相对仓库根），全部使用 POSIX 路径分隔符
+FILES = [
+    ".gitignore",
+    "README.md",
+    "RESULTS.md",
+    "CONTEST_DECLARATION.md",
+    "MCP_INTEGRATION.md",
+    "mcp-config.example.json",
+    "workbuddy.md",
+    "SKILL.md",
+    "LICENSE",
+    "scripts/mcd.py",
+    "scripts/publish_github.py",
+    "references/nutrition-planner.md",
+    "references/nutrition-snapshot.json",
+    "references/talk-scripts.md",
+    "references/growth-log-format.md",
+    "references/official-family-activities.md",
+]
+
+COMMIT_MSG = "feat: 麦麦成长日 - 亲子点单与沟通助手"
+
+
+def get_token():
+    token = os.environ.get("GITHUB_TOKEN", "").strip()
+    if not token:
+        print("错误：未设置 GITHUB_TOKEN 环境变量。", file=sys.stderr)
+        print("请先执行： export GITHUB_TOKEN=\"你的Token\"", file=sys.stderr)
+        sys.exit(1)
+    return token
+
+
+def api(method, path, token, payload=None):
+    url = path if path.startswith("http") else API + path
+    data = json.dumps(payload).encode() if payload is not None else None
+    req = urllib.request.Request(
+        url,
+        data=data,
+        method=method,
+        headers={
+            "Authorization": "Bearer " + token,
+            "Accept": "application/vnd.github+json",
+            "X-GitHub-Api-Version": "2022-11-28",
+            "Content-Type": "application/json",
+            "User-Agent": "mcd-family-growth-day-publisher",
+        },
+    )
+    try:
+        resp = urllib.request.urlopen(req, timeout=45)
+        body = resp.read().decode("utf-8", "replace")
+        return json.loads(body) if body.strip() else {}
+    except urllib.error.HTTPError as exc:
+        detail = exc.read().decode("utf-8", "replace")
+        try:
+            msg = json.loads(detail).get("message", detail)
+        except Exception:
+            msg = detail
+        raise RuntimeError("GitHub API %s %s -> HTTP %s: %s" % (method, path, exc.code, msg))
+    except urllib.error.URLError as exc:
+        raise RuntimeError("网络错误：%s" % exc)
+
+
+def get_login(token):
+    return api("GET", "/user", token)["login"]
+
+
+def repo_exists(token, owner, name):
+    try:
+        api("GET", "/repos/%s/%s" % (owner, name), token)
+        return True
+    except RuntimeError:
+        return False
+
+
+def create_repo(token, name):
+    return api(
+        "POST",
+        "/user/repos",
+        token,
+        {
+            "name": name,
+            "description": "麦麦成长日 · 亲子点单与沟通助手 —— 基于麦当劳 MCP 的 Skill。把一顿麦当劳变成一次有营养依据、有沟通脚本、有成长记号的家庭互动。",
+            "public": True,
+            "auto_init": False,
+            "has_issues": True,
+            "has_wiki": False,
+        },
+    )
+
+
+def file_to_tree_entry(rel_path):
+    abs_path = os.path.join(REPO_ROOT, rel_path.replace("/", os.sep))
+    with open(abs_path, "rb") as fh:
+        content = fh.read()
+    b64 = base64.b64encode(content).decode()
+    mode = "100755" if rel_path.endswith(".py") else "100644"
+    return {
+        "path": rel_path,
+        "mode": mode,
+        "type": "blob",
+        "content": b64,
+    }
+
+
+def push_tree(token, owner, name, branch, message):
+    """用 Git Trees API 一次性提交全部文件（比逐个 PUT 快且可靠）"""
+    entries = [file_to_tree_entry(p) for p in FILES]
+    print("  准备上传 %d 个文件..." % len(entries))
+    tree = api(
+        "POST",
+        "/repos/%s/%s/git/trees" % (owner, name),
+        token,
+        {"base_tree": None, "tree": entries},
+    )
+    commit = api(
+        "POST",
+        "/repos/%s/%s/git/commits" % (owner, name),
+        token,
+        {
+            "message": message,
+            "tree": tree["sha"],
+            "parents": [],
+        },
+    )
+    ref = api(
+        "POST",
+        "/repos/%s/%s/git/refs" % (owner, name),
+        token,
+        {"ref": "refs/heads/" + branch, "sha": commit["sha"]},
+    )
+    return commit["sha"], ref["ref"]
+
+
+def main():
+    repo_name = "mcd-family-growth-day"
+    args = sys.argv[1:]
+    if "--repo" in args:
+        idx = args.index("--repo")
+        if idx + 1 < len(args):
+            repo_name = args[idx + 1]
+
+    token = get_token()
+    login = get_login(token)
+    print("GitHub 账号：%s" % login)
+
+    owner = login
+    if repo_exists(token, owner, repo_name):
+        print("仓库已存在：%s/%s（将直接推送文件）" % (owner, repo_name))
+    else:
+        print("创建公开仓库 %s/%s ..." % (owner, repo_name))
+        create_repo(token, repo_name)
+        time.sleep(2)
+
+    sha, ref = push_tree(token, owner, repo_name, "main", COMMIT_MSG)
+    print("  提交成功：%s" % sha[:8])
+
+    url = "https://github.com/%s/%s" % (owner, repo_name)
+    print()
+    print("=" * 56)
+    print("完成！仓库地址：")
+    print("  " + url)
+    print("=" * 56)
+    print()
+    print("接下来：")
+    print("1. 打开上面的地址，确认文件都在、仓库是 Public")
+    print("2. 到官方仓库提交报名 Issue：")
+    print("   https://github.com/M-China/mcd-developer-innovation-challenge/issues")
+    print()
+    print("   Issue 标题（标题与正文之间不要有换行）：")
+    print("   麦麦成长日 - 亲子点单与沟通助手")
+    print()
+    print("   Issue 正文（各字段之间不要有换行）：")
+    print("   【参赛申请】")
+    print("   项目名称：麦麦成长日 · 亲子点单与沟通助手")
+    print("   项目地址：" + url)
+    print("   项目简介：基于麦当劳MCP官方营养与菜单数据，为带孩子吃麦当劳的家庭一键配出能量蛋白质均衡的套餐，"
+          "并生成亲子沟通四步法饭桌话术与成长记号，把一次随手点单变成一次高质量亲子互动。")
+
+
+if __name__ == "__main__":
+    try:
+        main()
+    except RuntimeError as exc:
+        print("失败：%s" % exc, file=sys.stderr)
+        sys.exit(2)
