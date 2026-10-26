@@ -1,1 +1,68 @@
-IyDmiJDplb/ml6XljobmlbDmja7moLzlvI/kuI7or7vlhpnop4TliJkKCiMjIOaWh+S7tuS9jee9rgoKYH4vLndvcmtidWRkeS9tY2QtZmFtaWx5LWdyb3d0aC1kYXkvZ3Jvd3RoLWxvZy5qc29uYO+8iOeUqOaIt+e6p+ebruW9le+8jOmajyBTa2lsbCDotbDvvInjgIIKCummluasoeS9v+eUqOiHquWKqOWIm+W7uu+8jOe7k+aehOWmguS4i++8mgoKYGBganNvbgp7CiAgInZlcnNpb24iOiAxLAogICJlbnRyaWVzIjogWwogICAgewogICAgICAiZGF0ZSI6ICIyMDI2LTEwLTI1IiwKICAgICAgImtleXdvcmQiOiAi5L2g5LuK5aSp6Ieq5bex5ou/56iz5LqG5Y+v5LmQ77yM5rKh5rSSIiwKICAgICAgIm5vdGUiOiAi56ys5LiA5qyh6Ieq5bex56uv56iz5ruh5ruh5LiA5p2v5Y+v5LmQ77yM6LWw6Lev6YO95b6I5bCP5b+D5Zyw5o2n552A44CCIiwKICAgICAgInRhZ3MiOiBbIuiHqueQhiIsICLnu4blv4MiXSwKICAgICAgInBsYWNlIjogIum6puW9k+WKsyIsCiAgICAgICJ1bmxvY2tlZCI6IGZhbHNlCiAgICB9CiAgXQp9CmBgYAoKIyMg5a2X5q616K+05piOCgp8IOWtl+autSB8IOW/heWhqyB8IOivtOaYjiB8CnwtLS18LS0tfC0tLXwKfCBgZGF0ZWAgfCDmmK8gfCBgWVlZWS1NTS1ERGAgfAp8IGBrZXl3b3JkYCB8IOaYryB8IOaIkOmVv+WFs+mUruivje+8jOS4gOWPpeivne+8jOKJpCAyMCDlrZfvvIwqKuW/hemhu+aYr+WFt+S9k+ihjOS4uioq77yM5LiN5piv6K+E5Lu377yI5aaC44CM5LuK5aSp5b6I5YuH5pWi44CN5LiN5ZCI5qC877yM44CM6KKr6ZmM55Sf5Lq65aS45ZCO5aSn5pa56K+05LqG6LCi6LCi44CN5ZCI5qC877yJIHwKfCBgbm90ZWAgfCDmmK8gfCDniLbmr43op4Llr5/ml6XorrDvvIzlj6/nvJbovpHvvIziiaQgNjAg5a2XIHwKfCBgdGFnc2AgfCDlkKYgfCDkuLvpopjmoIfnrb7vvIznlKjkuo7mnIjluqblm57pob7nu5/orqHvvIzlpoIg6Ieq55CGL+ekvOiyjC/lnZrmjIEv6KGo6L6+L+WQiOS9nC/mg4Xnu6ogfAp8IGBwbGFjZWAgfCDlkKYgfCDlnLDngrnvvIzpu5jorqTkuLrjgIzpuqblvZPlirPjgI0gfAp8IGB1bmxvY2tlZGAgfCDmmK8gfCDmmK/lkKblt7LnlKjkuo7op6PplIHku6rlvI/vvIxgZmFsc2VgIOKGkiBgdHJ1ZWAgfAoKIyMg6K+75YaZ6KeE5YiZCgoxLiAqKuWGmeWFpeWNs+i/veWKoCoq77yM5LiN5L+u5pS55Y6G5Y+y5p2h55uu77yI6Zmk6Z2e55So5oi35piO56Gu6KaB5rGC5L+u5pS55p+Q5p2h77yJ44CCCjIuIOWQjOS4gOWkqeWFgeiuuOWkmuadoe+8iOWmguS4gOWkqeS4pOasoeeUqOmkkO+8ieOAggozLiBga2V5d29yZGAg5b+F6aG75p2l6IeqKirnnJ/lrp7lj5HnlJ/nmoTkuosqKuOAguiLpeeUqOaIt+ayoeacieaPkOS+m+WFt+S9k+S6i+S7tu+8jCoq5LiN6KaB57yW6YCgKirigJTigJQKICAg5bqU5Y+N6Zeu5LiA5Y+l77ya44CM5LuK5aSp5pyJ5rKh5pyJ5ZOq5Liq556s6Ze05L2g5oOz6K6w5LiL5p2l77yf44CNCjQuIOaIkOmVv+aXpeiusOiLpemcgOmFjeWbvu+8jOW7uuiuruWutumVv+eUqOecn+WunueFp+eJh++8jCoq5LiN6KaB5L2/55SoIEFJIOeUn+aIkOWbvueJhyoq44CCCjUuIOmakOenge+8muWtqeWtkOeahOecn+WunuWnk+WQjeOAgeeFp+eJh+S4jeWGmeWFpeacrOaWh+S7tu+8jOS7heeUqOaYteensOaIluS7o+ensOOAggoKIyMg5Luq5byP6Kej6ZSBCgotIOe0r+iuoSBgdW5sb2NrZWQ6IGZhbHNlYCDnmoTmnaHnm67mlbDovr7liLAgKipOIOasoSoq77yI6buY6K6kIE49OO+8ie+8jOaPkOekuueUqOaIt+WPr+ino+mUgeS4gOasoeS7quW8j++8iOeUseeUqOaIt+iHquihjOWumuS5ie+8jOWmguOAjOWOu+S4gOasoea4uOS5kOWcuuOAjeOAjOmAieS4gOasoeeUnOWTgeOAje+8ieOAggotIOino+mUgeaXtuaKiuWvueW6lOadoeebruagh+iusCBgdW5sb2NrZWQ6IHRydWVg77yM5bm25Zyo5paH5Lu26aG25bGC6L+95YqgIGBtaWxlc3RvbmVzYCDorrDlvZXvvJoKCmBgYGpzb24KIm1pbGVzdG9uZXMiOiBbCiAgeyAiZGF0ZSI6ICIyMDI2LTExLTA4IiwgImNvdW50IjogOCwgImNlcmVtb255IjogIuWOu+S4gOasoea4uOS5kOWcuiIgfQpdCmBgYAoKIyMg5pyI5bqm5Zue6aG+6L6T5Ye6Cgror7vlj5YgYGVudHJpZXNgIOKGkiDmjInmnIjogZrlkIgg4oaSIOi+k+WHuu+8mgoKMS4g5pys5pyI6K6w5Y+35riF5Y2V77yI5oyJ5pel5pyf5YCS5bqP77yM5q+P5p2h5ZCrIGtleXdvcmQgKyB0YWdz77yJ77ybCjIuIOagh+etvuWHuueOsOmikeasoSBUb3AgM++8iOWTquexu+ihjOS4uuWcqOWinuWKoO+8ie+8mwozLiDkuIvkuIDkuKrlvoXop6PplIHku6rlvI/ov5jlt67lh6DmrKHvvJsKNC4g5LiA5Y+l6KeC5a+f5oC757uT77yI5Z+65LqO55yf5a6e6K6w5b2V77yM5LiN5YGa6K+E5Lu35oCn5pat6KiA77yJ44CCCgojIyDmnIDlsI/kuqTkupLljp/liJkKCi0g5YaZ5paH5Lu25YmN6Iul55uu5b2V5LiN5a2Y5Zyo77yM6Ieq5Yqo5Yib5bu677yM5LiN6L+96Zeu6Lev5b6E44CCCi0g55So5oi35Y+q5oOz5b+r6YCf6K6w5LiA5p2h5pe277yM5Y+q6Zeu5LiA5Lu25LqL77yaKirku4rlpKnmg7PorrDnmoTnnqzpl7TmmK/ku4DkuYgqKuOAggo=
+# 成长日历数据格式与读写规则
+
+## 文件位置
+
+`~/.workbuddy/mcd-family-growth-day/growth-log.json`（用户级目录，随 Skill 走）。
+
+首次使用自动创建，结构如下：
+
+```json
+{
+  "version": 1,
+  "entries": [
+    {
+      "date": "2026-10-25",
+      "keyword": "你今天自己拿稳了可乐，没洒",
+      "note": "第一次自己端稳满满一杯可乐，走路都很小心地捧着。",
+      "tags": ["自理", "细心"],
+      "place": "麦当劳",
+      "unlocked": false
+    }
+  ]
+}
+```
+
+## 字段说明
+
+| 字段 | 必填 | 说明 |
+|---|---|---|
+| `date` | 是 | `YYYY-MM-DD` |
+| `keyword` | 是 | 成长关键词，一句话，≤ 20 字，**必须是具体行为**，不是评价（如「今天很勇敢」不合格，「被陌生人夸后大方说了谢谢」合格） |
+| `note` | 是 | 父母观察日记，可编辑，≤ 60 字 |
+| `tags` | 否 | 主题标签，用于月度回顾统计，如 自理/礼貌/坚持/表达/合作/情绪 |
+| `place` | 否 | 地点，默认为「麦当劳」 |
+| `unlocked` | 是 | 是否已用于解锁仪式，`false` → `true` |
+
+## 读写规则
+
+1. **写入即追加**，不修改历史条目（除非用户明确要求修改某条）。
+2. 同一天允许多条（如一天两次用餐）。
+3. `keyword` 必须来自**真实发生的事**。若用户没有提供具体事件，**不要编造**——
+   应反问一句：「今天有没有哪个瞬间你想记下来？」
+4. 成长日记若需配图，建议家长用真实照片，**不要使用 AI 生成图片**。
+5. 隐私：孩子的真实姓名、照片不写入本文件，仅用昵称或代称。
+
+## 仪式解锁
+
+- 累计 `unlocked: false` 的条目数达到 **N 次**（默认 N=8），提示用户可解锁一次仪式（由用户自行定义，如「去一次游乐场」「选一次甜品」）。
+- 解锁时把对应条目标记 `unlocked: true`，并在文件顶层追加 `milestones` 记录：
+
+```json
+"milestones": [
+  { "date": "2026-11-08", "count": 8, "ceremony": "去一次游乐场" }
+]
+```
+
+## 月度回顾输出
+
+读取 `entries` → 按月聚合 → 输出：
+
+1. 本月记号清单（按日期倒序，每条含 keyword + tags）；
+2. 标签出现频次 Top 3（哪类行为在增加）；
+3. 下一个待解锁仪式还差几次；
+4. 一句观察总结（基于真实记录，不做评价性断言）。
+
+## 最小交互原则
+
+- 写文件前若目录不存在，自动创建，不追问路径。
+- 用户只想快速记一条时，只问一件事：**今天想记的瞬间是什么**。
