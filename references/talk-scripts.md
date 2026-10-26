@@ -1,1 +1,55 @@
-IyDkurLlrZDmsp/pgJrlm5vmraXms5XkuI7lnLrmma/or53mnK/lupMKCiMjIOWbm+atpeazle+8iOavj+WPpeivneaMieatpOe7k+aehOe7hOe7h++8iQoKMS4gKirmj4/ov7Dkuovlrp4qKiDigJQg5Y+q6K+06KeC5a+f5Yiw55qE5LqL77yM5LiN5bim6K+E5Lu377ya44CM5oiR55yL5Yiw5L2g5LiA55u05oOz5ou/5omL5py644CC44CNCjIuICoq6KGo6L6+5oSf5Y+XKiog4oCUIOivtOiHquW3seeahOecn+WunuaEn+WPl++8jOS4jeaMh+i0o++8muOAjOi/meS4quWcuuaZr+aIkeaDs+i3n+S9oOS4gOi1t+aKiumlreWQg+WlveOAguOAjQozLiAqKuivtOaYjuW9seWTjSoqIOKAlCDorrLmuIXlkI7mnpzkuI7nkIbnlLHvvJrjgIzovrnlkIPovrnnnIvlsY/luZXvvIzppa3lsLHkuI3pppnkuobvvIzkuZ/lrrnmmJPnp6/po5/jgILjgI0KNC4gKirnu5npgInmi6kqKiDigJQg5pyJ6ZmQ5LiU6YO95Y+v5o6l5Y+X55qE6YCJ6aG577yM5oqK5Yaz5a6a5p2D5Lqk5Zue5a2p5a2Q77ya44CM5ZCD5a6M6L+ZIDE1IOWIhumSn+aIkemZquS9oOeOqeeMnOaLs++8jOi/mOaYr+eUu+S7iuWkqei/memhv+mlre+8n+OAjQoKPiDmoLjlv4PvvJoqKuWFiOaOpeS9j+aDhee7qu+8jOWGjeiwiOinhOWImSoq44CC5YiH5b+M5oqK44CM5o+P6L+w5LqL5a6e44CN55u05o6l6K+05oiQ44CM5L2g5oCO5LmI5Y+I4oCm4oCm44CN44CCCj4g5Zub5q2l5Y+v5Y6L57yp5oiQIDLigJMzIOWPpeW/teWHuuadpe+8jOS9humhuuW6j+S4jeWPr+mioOWAkuOAggoKLS0tCgojIyDlnLrmma/or53mnK/lupMKCiMjIyAx772c5a2p5a2Q5Y+q5oOz6KaB55Sc5ZOBCj4g44CM5L2g5LuK5aSp5oOz5ZCD55Sc55Sc55qE77yM6bqm6bqm55qE55Sc5ZOB56Gu5a6e5b6I6K+x5Lq644CC5oiR5Lus5YWI5ZCD5q2j6aSQ77yM5ZCD5a6M5bCx5bim5L2g5Y675ou/77yM5aW95LiN5aW977yf44CNCgojIyMgMu+9nOWtqeWtkOWQg+mlreimgeaJi+acuiAvIOimgeW5s+advwo+IOOAjOaIkeeci+WIsOS9oOS4gOebtOaDs+aLv+aJi+acuuOAgui/memhv+mlreaIkeS7rOS4jeeci+Wxj+W5le+8jOaIkeaDs+mZquS9oOaKiumlreWQg+WlveOAguWQg+WujOi/mSAxNSDliIbpkp/miJHpmarkvaDnjqnnjJzmi7PvvIzov5jmmK/nlLvku4rlpKnov5npob/ppa3vvJ/jgI0KCiMjIyAz772c54K55Y2V5oSP6KeB5YiG5q2n77yI5aSn5Lq6IHZzIOWtqeWtkO+8iQo+IOOAjOS9oOaDs+imgeW3qOaXoOmcuOWll+mkkO+8jOWmiOWmiOaDs+WQg+m4oeiFv+WgoeOAguS7iuWkqeaIkeS7rOS4gOS6uuS4gOS7veiHquW3seeahO+8jOeEtuWQjuWIhuS6q+S4gOWNiu+8jOWlveWQl++8n+OAjQoKIyMjIDTvvZzlranlrZDkuI3ogq/lkIPolKzoj5wgLyDmjJHpo58KPiDjgIzov5nkuKrpnZLosYbkvaDkuI3lpKrniLHlr7nlkKfvvJ/lroPohIbohIbnmoTlvojlpb3lmrzjgILmiJHku6zlhYjlkIPkuInpopfvvIzliankuIvnmoTlpojlpojluK7kvaDmlL7nm5jlrZDph4zvvIzkvaDpmo/ml7blj6/ku6Xmi7/jgILjgI0KCiMjIyA1772c5a2p5a2Q6K+044CM5oiR5LiN6aW/44CNCj4g44CM5L2g6K+05LiN5aSq6aW/77yM5Y+v6IO95piv5Yia5omN6Zu26aOf5ZCD5bCR5LqG44CC6YKj5oiR5Lus5YWI54K55bCP6aOf77yM5LiA5Y+j5LiA5Y+j5p2l77yM6aW/5LqG5YaN5re744CC44CNCgojIyMgNu+9nOWtqeWtkOWcqOmkkOWOhei3keWKqCAvIOWkp+WjsAo+IOOAjOS9oOWcqOi3keeahOaXtuWAme+8jOWmiOWmiOWcqOW6p+S9jeS4iueci+edgOS9oOacieS4gOeCueaLheW/g++8iOaEn+WPl++8ieOAguaIkeS7rOWdkOS4i+adpeS4gOi1t+WQg++8jOi3keWKqOeVmee7meWQg+WujOS5i+WQjueahOa4uOaIj+aXtumXtO+8jOWlveWQl++8n+OAjQoKIyMjIDfvvZzlranlrZDpl67jgIzkuLrku4DkuYjkuI3og73lkIPpgqPkuKrjgI0KPiDjgIzlm6DkuLrpgqPkuKrns5bnibnliKvlpJrvvIzlkIPlrozkvaDnmoTppa3lsLHlkIPkuI3kuIvkuobjgILnlJznmoTpgqPku73miJHku6znlZnliLDppa3lkI7vvIzov5nmmK/ku4rlpKnnmoTnuqblrprjgILjgI0KCiMjIyA4772c6byT5Yqx5a2p5a2Q6Ieq5bex5Yaz5a6aCj4g44CM5LuK5aSp6L+Z5LiA6aSQ5L2g5p2l54K577yM5ZGK6K+J5oiR5L2g5oOz5ZCD5LuA5LmI77yM5oiR5biu5L2g5LiL5Y2V44CC5L2g6YCJ5ZOq5Liq77yf44CNCgojIyMgOe+9nOWtqeWtkOWQg+WujOS6huimgeWKoOmkkAo+IOOAjOS9oOaKiuato+mkkOWQg+WujOS6hu+8jOW+iOajkuOAguS9oOeOsOWcqOaYr+acieeCuemlv++8jOi/mOaYr+aDs+imgeeUnOeahO+8n+aIkeS7rOWPr+S7peS6jOmAieS4gOOAguOAjQoKIyMjIDEw772c5a2p5a2Q6Ze56IS+5rCU77yM55+t5pqC5aSx5o6nCj4g44CM5L2g546w5Zyo5b6I55Sf5rCU77yM5aaI5aaI5YWI5oqx5LiA5LiL77yI5YGc6aG/77yM5LiN6K6y6YGT55CG77yJ44CC562J5L2g5ZG85ZC45aW95LqG77yM5oiR5Lus5YaN6K+06L+Z5LiA6aG/6aWt5oCO5LmI6Kej5Yaz44CC44CNCgotLS0KCiMjIOeUn+aIkOinhOWImQoKMS4g5q+P5qyh6L6T5Ye6ICoqM+KAkzUg5Y+lKirvvIzlhbbkuK0qKuiHs+WwkSAxIOWPpSoq57K+5YeG5a+55bqU5pys5qyh5pyA5Y+v6IO95Y+R55Sf55qE5Yay56qB77ybCjIuIOivneacryoq6IO96KKr55u05o6l5b+15Ye65p2lKirigJTigJTlj6Por63jgIHnn63lj6XjgIHkuI3nlKjkuabpnaLor63vvJsKMy4g5LiN6KaB5Zyo5ZCM5LiA5aWX6YeM6YeN5aSN5ZCM5LiA5Liq5Y+l5byP77ybCjQuIOS4jeWGmeOAjOS9oOW6lOivpeOAjeOAjOS9oOW/hemhu+OAjeOAjOWQrOivneOAje+8jOaUueWGmeS4uuOAjOaIkeS7rOS4gOi1t+OAjeOAjOS9oOWFiOKApuaIkeS7rOWGjeKApuOAje+8mwo1LiDmtonlj4rovrnnlYzvvIjlronlhajjgIHlgaXlurfvvInml7bkuI3lgZrkuqTmmJPlvI/kuqTmjaLvvIjjgIzlkIPlrozkuobnu5nkvaDkubDnjqnlhbfjgI3vvInvvIzlj6/nlKjml7bpl7TlnovnuqblrprvvIjjgIzlkIPlrozov5kgMTUg5YiG6ZKf5oiR6Zmq5L2g546p44CN77yJ44CCCg==
+# 亲子沟通四步法与场景话术库
+
+## 四步法（每句话按此结构组织）
+
+1. **描述事实** — 只说观察到的事，不带评价：「我看到你一直想拿手机。」
+2. **表达感受** — 说自己的真实感受，不指责：「这个场景我想跟你一起把饭吃好。」
+3. **说明影响** — 讲清后果与理由：「边吃边看屏幕，饭就不香了，也容易积食。」
+4. **给选择** — 有限且都可接受的选项，把决定权交回孩子：「吃完这 15 分钟我陪你玩猜拳，还是画今天这顿饭？」
+
+> 核心：**先接住情绪，再谈规则**。切忌把「描述事实」直接说成「你怎么又……」。
+> 四步可压缩成 2–3 句念出来，但顺序不可颠倒。
+
+---
+
+## 场景话术库
+
+### 1｜孩子只想要甜品
+> 「你今天想吃甜甜的，麦麦的甜品确实很诱人。我们先吃正餐，吃完就带你去拿，好不好？」
+
+### 2｜孩子吃饭要手机 / 要平板
+> 「我看到你一直想拿手机。这顿饭我们不看屏幕，我想陪你把饭吃好。吃完这 15 分钟我陪你玩猜拳，还是画今天这顿饭？」
+
+### 3｜点单意见分歧（大人 vs 孩子）
+> 「你想要巨无霸套餐，妈妈想吃鸡腿堡。今天我们一人一份自己的，然后分享一半，好吗？」
+
+### 4｜孩子不肯吃蔬菜 / 挑食
+> 「这个青豆你不太爱对吧？它脆脆的很好嚼。我们先吃三颗，剩下的妈妈帮你放盘子里，你随时可以拿。」
+
+### 5｜孩子说「我不饿」
+> 「你说不太饿，可能是刚才零食吃少了。那我们先点小食，一口一口来，饿了再添。」
+
+### 6｜孩子在餐厅跑动 / 大声
+> 「你在跑的时候，妈妈在座位上看着你有一点担心（感受）。我们坐下来一起吃，跑动留给吃完之后的游戏时间，好吗？」
+
+### 7｜孩子问「为什么不能吃那个」
+> 「因为那个糖特别多，吃完你的饭就吃不下了。甜的那份我们留到饭后，这是今天的约定。」
+
+### 8｜鼓励孩子自己决定
+> 「今天这一餐你来点，告诉我你想吃什么，我帮你下单。你选哪个？」
+
+### 9｜孩子吃完了要加餐
+> 「你把正餐吃完了，很棒。你现在是有点饿，还是想要甜的？我们可以二选一。」
+
+### 10｜孩子闹脾气，短暂失控
+> 「你现在很生气，妈妈先抱一下（停顿，不讲道理）。等你呼吸好了，我们再说这一顿饭怎么解决。」
+
+---
+
+## 生成规则
+
+1. 每次输出 **3–5 句**，其中**至少 1 句**精准对应本次最可能发生的冲突；
+2. 话术**能被直接念出来**——口语、短句、不用书面语；
+3. 不要在同一套里重复同一个句式；
+4. 不写「你应该」「你必须」「听话」，改写为「我们一起」「你先…我们再…」；
+5. 涉及边界（安全、健康）时不做交易式交换（「吃完了给你买玩具」），可用时间型约定（「吃完这 15 分钟我陪你玩」）。
