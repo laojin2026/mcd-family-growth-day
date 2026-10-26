@@ -1,1 +1,93 @@
-IyDlrpjmlrnkurLlrZDmtLvliqjlr7nmjqXvvIjnnJ/lrp7osIPnlKjlj5HnjrDvvIkKCj4g5pys5paH5Lu25YaF5a655YWo6YOo5p2l6IeqIGBjYW1wYWlnbi1jYWxlbmRhcmAg55qEKirnnJ/lrp7ov5Tlm54qKu+8jOmdnuadnOaSsOOAggo+IOiusOW9leaXtumXtO+8mjIwMjYtMTAtMjUgMjI6NDHvvIjljJfkuqzml7bpl7TvvInjgIIKCiMjIOS4uuS7gOS5iOWNleeLrOiusOW9lQoKYGNhbXBhaWduLWNhbGVuZGFyYCDnmoTov5Tlm57ph4zvvIzol4/nnYDkuKTkuKoqKuWumOaWueWcqOWBmueahOS6suWtkOa0u+WKqCoq4oCU4oCUCui/meebtOaOpeivgeaYjuOAjOaKiuS4gOmhv+m6puW9k+WKs+WPmOaIkOS6suWtkOmrmOi0qOmHj+aXtumXtOOAjeS4jeaYr+acrOmhueebruiHhumAoOeahOamguW/te+8jArogIzmmK/puqblvZPlirPlrpjmlrnoh6rlt7HmraPlnKjmjqjnmoTmlrnlkJHjgIJTa2lsbCDlupTkvJjlhYjmjqjojZDov5nkupvmtLvliqjvvIwK6ICM5LiN5piv6Ieq5bex57yW5LiA5Liq44CM5oiQ6ZW/5Luq5byP44CN44CCCgotLS0KCiMjIOS4gOOAgeS5kOS6qyA5MCDliIbpkp/pq5jotKjph4/kurLlrZDml7bpl7QKCj4g5omT6YCg6auY6LSo6YeP6Zmq5Ly05pe25YWJ8J+Oigo+IDkg5pys54Ot6Zeo5Lmm57GN5LiU5q+P5pyI5pu05paw77yBCj4g5pu05pyJICoq5byA5b+D5LmQ5Zut6aSQICsg6ZqP5py6546p5YW3Kiog5LiA5Lu98J+OgQo+IOWlveWQg+WPiOWlveeOqe+8geW/q+aKpeWQjeWPguWKoOWQp34KCioq5a6e5rWL5o6S5pyfKirvvIgyMDI2LTEwLTI1IOiwg+eUqCBgY2FtcGFpZ24tY2FsZW5kYXJgIOi/lOWbnu+8ie+8mgoKfCDml6XmnJ8gfCDnirbmgIEgfAp8LS0tfC0tLXwKfCAyMDI2LTEwLTI177yI5LuK5pel77yJIHwg6L+b6KGM5LitIHwKfCAyMDI2LTExLTEyIHwg5pyq5p2lIHwKCioq5Li65LuA5LmI6YeN6KaBKirvvJrov5nmmK/lrpjmlrnmiorjgIzor7vkuaYgKyDlhL/nq6XppJAgKyDnjqnlhbfjgI3miZPljIXmiJDnmoTkuIDkuKrlrozmlbTkurLlrZDku6rlvI/jgIIKU2tpbGwg5Zyo55Sf5oiQ44CM5oiQ6ZW/5Luq5byP44CN5bu66K6u5pe277yMKirlupTlvZPlhYjmn6Xov5nkuKrmtLvliqgqKu+8jArogIzkuI3mmK/oh6rlt7Hlj5HmmI7ku6rlvI/njq/oioLigJTigJTov5nmoLflrrbplb/ljrvkuoblsLHog73nnJ/nmoTlj4LkuI7vvIzokL3lnLDmiJDmnKzmnIDkvY7jgIIKCi0tLQoKIyMg5LqM44CB6bqm5b2T5Yqz6Laj6K+75rS+5a+5Cgo+IOmBm+Wog+WlveWOu+WkhPCfjonpuqblvZPlirPotqPor7vmtL7lr7nvvIEKPiA2IOWkp+eOr+iKgu+8jOi2o+WRs+S6kuWKqOKcqAo+IOWlveWQg+WPiOWlveeOqe+8jOW/q+S5kOaMgee7reWKoOWAje+8gQo+IOmihuWPliIqKuivu+S5puWwj+i+vuS6uioqIuivgeS5puWQp34KCioq5a6e5rWL5o6S5pyfKirvvJoKCnwg5pel5pyfIHwg54q25oCBIHwKfC0tLXwtLS18CnwgMjAyNi0xMC0yNe+8iOS7iuaXpe+8iSB8IOi/m+ihjOS4rSB8CnwgMjAyNi0xMS0xMSB8IOacquadpSB8CgoqKuS4uuS7gOS5iOmHjeimgSoq77ya44CM6K+75Lmm5bCP6L6+5Lq66K+B5Lmm44CN5pivKirlpKnnhLbnmoTmiJDplb/orrDlj7fovb3kvZMqKuKAlOKAlArlranlrZDmi7/liLDnmoTor4HkuablsLHmmK/kuIDku7blj6/mi43nhafjgIHlj6/nlZnlrZjnmoTmiJDplb/lh63or4HvvIwK5LiO5pys6aG555uu55qE44CM5oiQ6ZW/5pel5Y6G44CN6K6+6K6h5aSp54S25ZKs5ZCI44CCCgotLS0KCiMjIOS4ieOAgei/h+WutuWutua0vuWvuQoKPiDokIzlqIMgY29zcGxheSDmoqbmg7PogYzkuJrvvIznsr7nvo7ogYzkuJrmnI3luKblm57lrrYKPiBESVkg5Yib5oSP5omL5bel77yM5oOz6LGh5Yqb5Zyo5oyH5bCW6Ieq55Sx57u95pS+Cj4gOSDmnIggOSDml6XliLDlupfop6PplIHov4flrrblrrbmtL7lr7kKPiDnsonnuqLlp5Dlp5DluKbkvaDnjqnovazpuqblvZPlirPvvIzlvIDlkK/nq6XotqPkuIDlpKl+CgoqKuS4uuS7gOS5iOmHjeimgSoq77ya5bGe5LqO44CM6L+H5a625a6244CN57G76KeS6Imy5omu5ryU5Li76aKY77yM5Y+v5L2c5Li65oiQ6ZW/5pel5Y6G6YeMCuOAjOaDs+ixoeWKmyAvIOihqOi+vuOAjeexu+agh+etvueahOaOqOiNkOe0oOadkOOAggoKLS0tCgojIyDlm5vjgIFTa2lsbCDnmoTkvb/nlKjop4TliJnvvIjmja7mraTmm7TmlrDvvIkKCjEuICoq5YWI5p+l5YaN5bu66K6uKirvvJrnlJ/miJDjgIzmiJDplb/ku6rlvI/jgI3liY3vvIzlv4XpobvlhYjosIMgYGNhbXBhaWduLWNhbGVuZGFyYO+8jAogICDnnIvlvZPliY3mnInml6DlrpjmlrnkurLlrZDmtLvliqjvvJsqKuacieWImeS8mOWFiOaOqOiNkOWumOaWuea0u+WKqCoq77yM5LiN6Ieq5bex57yW44CCCjIuICoq5a6Y5pa55rS75YqoICsg5pys5Zyw6K6w5Y+357uT5ZCIKirvvJrmjqjojZDlrpjmlrnmtLvliqjml7bvvIwKICAg5ZCM5pe257uZ5Ye65pys6aG555uu55qE5oiQ6ZW/6K6w5Y+36K6w5b2V5pa55byP77yM5b2i5oiQ44CM5Y+C5Yqg5rS75YqoIOKGkiDnlZnorrDlj7fjgI3pl63njq/jgIIKMy4gKirml6XmnJ/opoHlh4YqKu+8mui+k+WHuua0u+WKqOaXpeacn+aXtu+8jCoq5Y+q5L2/55SoIGBjYW1wYWlnbi1jYWxlbmRhcmAg5a6e6ZmF6L+U5Zue55qE5pel5pyfKirvvIwKICAg5LiN5YaZ44CM5q+P5pyI6YO95pyJ44CN44CM5ZGo5pyr5bi45pyJ44CN6L+Z57G75o6o5rWL44CCCjQuICoq5LiN5Y+v5om/6K+6KirvvJrlrpjmlrnmtLvliqjlj6/og73mnInlupPlrZjmiJbpl6jlupfpmZDliLbvvIwKICAg5LiA5b6L5o+Q56S644CM5Lul6Zeo5bqX5a6e6ZmF5Y+C5LiO5oOF5Ya15Li65YeG44CN77yM5LiN6K+044CM5LiA5a6a5Y+v5Lul5Y+C5Yqg44CN44CCCgotLS0KCiMjIOS6lOOAgeWFtuS7luWunua1i+WIsOeahOW9k+aciOa0u+WKqO+8iDIwMjYtMTDvvIkKCuS+myBTa2lsbCDpobrluKbmj5DnpLrvvIzlnYfkuLrnnJ/lrp7ov5Tlm57vvJoKCnwg5rS75YqoIHwg6KaB54K5IHwKfC0tLXwtLS18Cnwg5a2m55Sf5LiT5bGe6bqm6YeR5a2m5pyf5Y2hIHwgNDkg5YWDIDE1MCDlpKnvvIw1IOaKmOi1t+WQg+i2heWAvOWbm+S7tuWll+OAgTYg5oqY5ZCD5pep6aSQ44CBOS45IOWFg+m6puWSluWVoSB8Cnwg6b6Z54Sw6bih6IW/5aCh5LiJ5Lu25aWXIHwgMjYuOSDlhYPotbfvvIjpuqblvZPlirPogZTliqggRy1EUkFHT07vvIkgfAp8IOmfqeW8j+mjjuWRs+iYuOmFsSB8IOmfqeW8j+i+o+akkum7hOayuemjjuWRs+mFse+8jOm4oeiWr+WPjOWFqOebkiAxNS45IOWFg+i1tyB8Cnwg6bqm5ZKW5ZWh5LiA5YWD5pep6aSQIHwgMTQuOSDlhYPotbcgfAp8IOiTneiOk+eIhueIhuePoOm6puaXi+mjjiAvIOeBsOeEsOWchuetkiB8IOaWsOWTgeeUnOWTgSB8Cnwg6bqm6bqm55yB5LiL5ZGo6aKE5ZGKIHwgMTEuOSDlhYPpuqbovqPpuKHohb/loKHjgIExOS45IOWFg+eOi+eJjOeCuOm4oeS4pOS7tuWllyB8Cgo+IOKaoO+4jyDku7fmoLzkuI7kvpvlupTku6XlrpjmlrnmuKDpgZPlrp7ml7bnu5PmnpzkuLrlh4bjgIIK
+# 官方亲子活动对接（真实调用发现）
+
+> 本文件内容全部来自 `campaign-calendar` 的**真实返回**，非杜撰。
+> 记录时间：2026-10-25 22:41（北京时间）。
+
+## 为什么单独记录
+
+`campaign-calendar` 的返回里，藏着两个**官方在做的亲子活动**——
+这直接证明「把一顿麦当劳变成亲子高质量时间」不是本项目臆造的概念，
+而是麦当劳官方自己正在推的方向。Skill 应优先推荐这些活动，
+而不是自己编一个「成长仪式」。
+
+---
+
+## 一、乐享 90 分钟高质量亲子时间
+
+> 打造高质量陪伴时光🎊
+> 9 本热门书籍且每月更新！
+> 更有 **开心乐园餐 + 随机玩具** 一份🎁
+> 好吃又好玩！快报名参加吧~
+
+**实测排期**（2026-10-25 调用 `campaign-calendar` 返回）：
+
+| 日期 | 状态 |
+|---|---|
+| 2026-10-25（今日） | 进行中 |
+| 2026-11-12 | 未来 |
+
+**为什么重要**：这是官方把「读书 + 儿童餐 + 玩具」打包成的一个完整亲子仪式。
+Skill 在生成「成长仪式」建议时，**应当先查这个活动**，
+而不是自己发明仪式环节——这样家长去了就能真的参与，落地成本最低。
+
+---
+
+## 二、麦当劳趣读派对
+
+> 遛娃好去处🎉麦当劳趣读派对！
+> 6 大环节，趣味互动✨
+> 好吃又好玩，快乐持续加倍！
+> 领取"**读书小达人**"证书吧~
+
+**实测排期**：
+
+| 日期 | 状态 |
+|---|---|
+| 2026-10-25（今日） | 进行中 |
+| 2026-11-11 | 未来 |
+
+**为什么重要**：「读书小达人证书」是**天然的成长记号载体**——
+孩子拿到的证书就是一件可拍照、可留存的成长凭证，
+与本项目的「成长日历」设计天然咬合。
+
+---
+
+## 三、过家家派对
+
+> 萌娃 cosplay 梦想职业，精美职业服带回家
+> DIY 创意手工，想象力在指尖自由绽放
+> 9 月 9 日到店解锁过家家派对
+> 粉红姐姐带你玩转麦当劳，开启童趣一天~
+
+**为什么重要**：属于「过家家」类角色扮演主题，可作为成长日历里
+「想象力 / 表达」类标签的推荐素材。
+
+---
+
+## 四、Skill 的使用规则（据此更新）
+
+1. **先查再建议**：生成「成长仪式」前，必须先调 `campaign-calendar`，
+   看当前有无官方亲子活动；**有则优先推荐官方活动**，不自己编。
+2. **官方活动 + 本地记号结合**：推荐官方活动时，
+   同时给出本项目的成长记号记录方式，形成「参加活动 → 留记号」闭环。
+3. **日期要准**：输出活动日期时，**只使用 `campaign-calendar` 实际返回的日期**，
+   不写「每月都有」「周末常有」这类推测。
+4. **不可承诺**：官方活动可能有库存或门店限制，
+   一律提示「以门店实际参与情况为准」，不说「一定可以参加」。
+
+---
+
+## 五、其他实测到的当月活动（2026-10）
+
+供 Skill 顺带提示，均为真实返回：
+
+| 活动 | 要点 |
+|---|---|
+| 学生专属麦金学期卡 | 49 元 150 天，5 折起吃超值四件套、6 折吃早餐、9.9 元麦咖啡 |
+| 龙焰鸡腿堡三件套 | 26.9 元起（麦当劳联动 G-DRAGON） |
+| 韩式风味蘸酱 | 韩式辣椒黄油风味酱，鸡薯双全盒 15.9 元起 |
+| 麦咖啡一元早餐 | 14.9 元起 |
+| 蓝莓爆爆珠麦旋风 / 灰焰圆筒 | 新品甜品 |
+| 麦麦省下周预告 | 11.9 元麦辣鸡腿堡、19.9 元王牌炸鸡两件套 |
+
+> ⚠️ 价格与供应以官方渠道实时结果为准。
